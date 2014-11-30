@@ -1,0 +1,222 @@
+TOSS-UP
+1) BIOLOGY Short Answer If one end of a single polypeptide chain has an amino group exposed, what functional group is typically exposed at the opposite end?
+ANSWER: CARBOXYL
+BONUS
+1) BIOLOGY Short Answer What is the most common name of the protein that synthesizes DNA?
+ANSWER: DNA POLYMERASE (ACCEPT: POLYMERASE)
+TOSS-UP
+2) CHEMISTRY Multiple Choice Which of the following compounds is used as a fuel additive in what is commonly known as “dry-gas” by solubilizing water to reduce its contamination in gasoline:
+W) isooctane
+X) glycerol
+Y) MTBE
+Z) isopropyl alcohol
+ANSWER: Z) ISOPROPYL ALCOHOL
+BONUS
+2) CHEMISTRY Multiple Choice The molar heat of vaporization for water at its boiling point and in kilojoules per mole is:
+W) 6.01
+X) 40.7
+Y) 540
+Z) 2,260
+ANSWER: X) 40.7
+TOSS-UP
+3) PHYSICS Multiple Choice Consider an electric charge moving through a magnetic field. A force acts on the charge perpendicular to the direction of the charge’s motion and direction of the magnetic field. Which of the following is the MOST common name for this force:
+W) B field
+X) Lorentz force
+Y) electrodynamic force
+Z) Faraday force
+ANSWER: X) LORENTZ FORCE
+BONUS
+3) PHYSICS Multiple Choice Which of the following BEST describes the Lorentz Contraction:
+W) reduction in the mass of a body as it approaches the speed of light
+X) reduction in the length of a body along the direction of motion as it approaches the speed of light
+Y) loss of kinetic energy when any object slows
+Z) loss of potential energy when any body emits electromagnetic radiation
+ANSWER: X) REDUCTION IN THE LENGTH OF A BODY ALONG THE DIRECTION OF MOTION AS IT APPROACHES THE SPEED OF LIGHT
+TOSS-UP
+4) MATH Short Answer What is the determinant of a 2-by-2 square matrix whose rows are 4, 2 and –3, –4?
+ANSWER: –10
+BONUS
+4) MATH Short Answer Solve the following equation for x: –2 &amp;#124; 3 + (x/2) &amp;#124; = –10 (read as: negative 2 times the absolute value of 3 plus, open parenthesis, x divided by 2, close parenthesis, close absolute value, equals negative 10)
+ANSWER: 4 AND –16
+TOSS-UP
+5) EARTH SCIENCE Short Answer What is the most common name for the temperature-slope or depth interval over which temperature changes with depth in a lake?
+ANSWER: THERMOCLINE
+BONUS
+5) EARTH SCIENCE Multiple Choice Trilobites are index fossils that lived:
+W) in warm, ocean waters
+X) during the Achaean geological time
+Y) in desert environments
+Z) in lakes, rivers and streams
+ANSWER: W) IN WARM, OCEAN WATERS
+TOSS-UP
+6) GENERAL SCIENCE Multiple Choice The Chesapeake Bay Foundation has enlisted the help of volunteers to raise oysters within cages tied to docks just below the water’s surface. Which of the following is the BEST reason why these amateur conservationists will not be tempted to eat their oysters:
+W) they are genetically engineered and their impact on human heath has not been assessed
+X) they were irradiated prior to seeding to ensure they were disease-free
+Y) there is a water pollution advisory against eating oysters grown within most of the watershed
+Z) some are equipped with a radio transmitter to allow biologists to easily measure population changes
+ANSWER: Y) THERE IS A WATER POLLUTION ADVISORY AGAINST EATING OYSTERS GROWN WITHIN MOST OF THE WATERSHED
+BONUS
+6) GENERAL SCIENCE Short Answer If one of Earth’s tectonic plates moves at a rate of about 10 centimeters per year, how many kilometers will it move in 100 million years?
+ANSWER: 10,000
+TOSS-UP
+7) ASTRONOMY Short Answer From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits?
+ANSWER: MARS
+BONUS
+7) ASTRONOMY Short Answer What object in the night sky can reach a maximum apparent magnitude of negative 12.6?
+ANSWER: MOON (ACCEPT: FULL MOON)
+TOSS-UP
+8) BIOLOGY Short Answer What is the main respiratory pigment of skeletal muscle cells?
+ANSWER: MYOGLOBIN
+BONUS
+8) BIOLOGY Short Answer Choosing from primary through quaternary, what level of protein structure is conferred by a beta pleated sheet?
+ANSWER: SECONDARY
+TOSS-UP
+9) CHEMISTRY Multiple Choice An increase in which of the following conditions would NOT lead to an increase in pressure of a gas in a piston:
+W) increased temperature
+X) increased number of gas molecules
+Y) increased average kinetic energy of gas particles
+Z) increased volume
+ANSWER: Z) INCREASED VOLUME
+BONUS
+9) CHEMISTRY Short Answer To the nearest whole number, how many grams of Na2SO4, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?
+ANSWER: 7
+TOSS-UP
+10) PHYSICS Multiple Choice Which of the following best describes the concept upon which Kirchhoff’s current law or first law is based:
+W) charges come in unit dimensions
+X) all charges flow from the negative to the positive
+Y) charge can neither be created nor destroyed
+Z) what goes up must come down
+ANSWER: Y) CHARGE CAN NEITHER BE CREATED NOR DESTROYED
+BONUS
+10) PHYSICS Short Answer Give by name or number all of the following 4 choices that would be considered units of electrical power: 1) ampere volt; 2) joules per second; 3) watts; 4) coulombs
+ANSWER: 1; 2; 3
+TOSS-UP
+11) MATH Short Answer Giving your answer as up, down, left, or right, the graph of the equation x = 5y – 8y&lt;sup&gt;2&lt;/sup&gt; – 1 opens in what direction?
+ANSWER: LEFT
+BONUS
+11) MATH Short Answer If $10,000 is placed in a savings account that pays 5% interest compounded annually, what is the total amount of money in the account at the end of 2 years, to the nearest dollar?
+ANSWER: $11,025
+TOSS-UP
+12) EARTH SCIENCE Multiple Choice Which of the following atmospheric gases is created naturally by the action of sunlight on molecular oxygen:
+W) ozone
+X) carbon monoxide
+Y) nitrous oxide
+Z) methane
+ANSWER: W) OZONE
+BONUS
+12) EARTH SCIENCE Short Answer On a weather map, what type of frontal boundary is represented by alternating blue and red lines with blue triangles pointing toward the warmer air and red semicircles pointing toward the colder air?
+ANSWER: STATIONARY (ACCEPT: STATIONARY FRONTAL BOUNDARY or STATIONARY FRONT)
+TOSS-UP
+13) GENERAL SCIENCE Multiple Choice Geothermal power plants use which of the following to generate electricity:
+W) coal
+X) steam
+Y) sunlight
+Z) pressurized water
+ANSWER: X) STEAM
+BONUS
+13) GENERAL SCIENCE Multiple Choice Diatoms are:
+W) bacteria
+X) twinned crystals
+Y) seaweed
+Z) algae
+ANSWER: Z) ALGAE
+TOSS-UP
+14) ASTRONOMY Multiple Choice Which of the following statements is LEAST accurate:
+W) solar eclipses are less common than lunar eclipses
+X) stars that begin their lives with greater mass have longer life-spans
+Y) stars in the same constellation are not necessarily at the same distance from Earth
+Z) M-31 is a galaxy
+ANSWER: X) STARS THAT BEGIN THEIR LIVES WITH GREATER MASS HAVE LONGER LIFE-SPANS
+BONUS
+14) ASTRONOMY Short Answer In what constellation is the brightest-appearing star in the night sky?
+ANSWER: CANIS MAJOR
+TOSS-UP
+15) BIOLOGY Short Answer What specific biological process is believed to have produced most of the diatomic oxygen in the Earth’s atmosphere?
+ANSWER: PHOTOSYNTHESIS
+BONUS
+15) BIOLOGY Short Answer In photosynthesis II (read as: two), what is light energy most notably used to initially accomplish?
+ANSWER: SPLITTING OF WATER
+TOSS-UP
+16) CHEMISTRY Short Answer According to VSEPR bonding theory, what type of geometry does a molecule have when the central atom is surrounded by 4 bonded groups, such as in methane?
+ANSWER: TETRAHEDRAL
+BONUS
+16) CHEMISTRY Multiple Choice Which of the following is considered a weak acid:
+W) HCO&lt;sub&gt;2&lt;/sub&gt;H
+X) HClO&lt;sub&gt;4&lt;/sub&gt;
+Y) HNO&lt;sub&gt;3&lt;/sub&gt;
+Z) HBr
+ANSWER: W) HCO&lt;sub&gt;2&lt;/sub&gt;H
+TOSS-UP
+17) PHYSICS Short Answer What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to function in storing electrical energy?
+ANSWER: CAPACITOR
+BONUS
+17) PHYSICS Short Answer What is the SI unit of capacitance equal to one coulomb per volt?
+ANSWER: FARAD
+TOSS-UP
+18) MATH Short Answer In what quadrant does θ (read as: theta) terminate if sine θ is positive and secant θ is negative?
+ANSWER: 2&lt;sup&gt;nd&lt;/sup&gt; (ACCEPT: 2)
+BONUS
+18) MATH Short Answer Solve the following equation for all real values of x: (1/8) x&lt;sup&gt;2&lt;/sup&gt; − (1/4) x − 1 = 0 
+ANSWER: 4 OR –2
+TOSS-UP
+19) EARTH SCIENCE Multiple Choice Which of the following rocks is MOST porous:
+W) marble
+X) granite
+Y) limestone
+Z) slate
+ANSWER: Y) LIMESTONE
+BONUS
+19) EARTH SCIENCE Multiple Choice If the intent is to neutralize soil acidity, the mixing of which of the following materials in the soil would be the LEAST effective:
+W) ground limestone
+X) ground oyster shells
+Y) pure CaCO&lt;sub&gt;3&lt;/sub&gt;
+Z) gypsum
+ANSWER: Z) GYPSUM
+TOSS-UP
+20) GENERAL SCIENCE Multiple Choice Which of the following is used as a white pigment in paint, paper, and plastics:
+W) Teflon
+X) zeolites
+Y) titanium dioxide
+Z) diatomaceous earth
+ANSWER: Y) TITANIUM DIOXIDE
+BONUS
+20) GENERAL SCIENCE Multiple Choice Cats have a special layer of tissue behind their retina called the tapetum lucidum that does which of the following:
+W) reflects back to the retina stray photons of light
+X) allows for color vision
+Y) allows only for black, white and grey vision
+Z) serves as a second eyelid to protect the eye
+ANSWER: W) REFLECTS BACK TO THE RETINA STRAY PHOTONS OF LIGHT High School Round 7 Page 10
+TOSS-UP
+21) ASTRONOMY Short Answer What basic force is responsible for forming the liquid-metallic hydrogen layer on the planet Jupiter?
+ANSWER: GRAVITY
+BONUS
+21) ASTRONOMY Short Answer During what month is the average surface temperature of the Earth typically the highest?
+ANSWER: JULY
+TOSS-UP
+22) BIOLOGY Short Answer In what specific part of the testes does spermatogenesis occur in mammals?
+ANSWER: SEMINIFEROUS TUBULES
+BONUS
+22) BIOLOGY Short Answer What human gland, which is mostly lymphoid tissue, is critical to the normal development of cell mediated immunity and, if removed after young adulthood, seems to have no ill effects on the immune system?
+ANSWER: THYMUS
+TOSS-UP
+23) CHEMISTRY Short Answer When a strip of sodium reacts with dilute HCl, what gas is produced?
+ANSWER: HYDROGEN
+BONUS
+23) CHEMISTRY Multiple Choice The release of hydrogen gas in the above experiment is called:
+W) combustion
+X) effervescence
+Y) diffusion
+Z) ebullition
+ANSWER: X) EFFERVESCENCE
+TOSS-UP
+24) PHYSICS Short Answer What was the electrolyte used in the first voltaic piles built by Volta?
+ANSWER: BRINE (ACCEPT: SALT WATER)
+BONUS
+24) PHYSICS Short Answer What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9-volt battery that requires 0.05 amps to run?
+ANSWER: 180 OHMS
+TOSS-UP
+25) BIOLOGY Short Answer What is the most common name for the micro-gametophyte in flowering plants?
+ANSWER: POLLEN (ACCEPT: POLLEN GRAINS)
+BONUS
+25) BIOLOGY Short Answer Sieve cells and sieve tube members are types of what specific conductive plant cell type?
+ANSWER: PHLOEM

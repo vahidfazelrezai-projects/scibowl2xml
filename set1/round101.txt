@@ -1,0 +1,210 @@
+TOSS-UP
+1) BIOLOGY Short Answer What is the most common term used in genetics to describe the observable physical characteristics of an organism caused by the expression of a gene or set of genes?
+ANSWER: PHENOTYPE
+BONUS
+1) BIOLOGY Short Answer What is the biological term most often used for the act of a cell engulfing a particle by extending its pseudopodia (read as: SU-doe-POH-dee-ah) around the particle?
+ANSWER: PHAGOCYTOSIS
+TOSS-UP
+2) CHEMISTRY Multiple Choice An aqueous solution in which the concentration of OH&lt;sup&gt;-&lt;/sup&gt; ions is greater than that of H&lt;sup&gt;+&lt;/sup&gt; ions is:
+W) basic
+X) acidic
+Y) neutral
+Z) in equilibrium
+ANSWER: W) BASIC
+BONUS
+2) CHEMISTRY Short Answer Find the mass of 1 mole of cuprous oxide, or Cu&lt;sub&gt;2&lt;/sub&gt;O. Assume the atomic mass of copper is 64 and oxygen is 16.
+ANSWER: 144
+TOSS-UP
+3) PHYSICS Short Answer What property of a sound wave is most commonly associated with loudness?
+ANSWER: AMPLITUDE
+BONUS
+3) PHYSICS Short Answer What is the MOST common term for the behavior of light where it appears to bend around small obstacles or the spreading out of waves as light passes through pinholes or slits?
+ANSWER: DIFFRACTION
+TOSS-UP
+4) MATH Short Answer What term BEST describes 2 angles with 90&amp;deg; as the sum of their measurements?
+ANSWER: COMPLEMENTARY
+BONUS
+4) MATH Short Answer Divide the following and give your answer in scientific notation: 8×10&lt;sup&gt;7&lt;/sup&gt; / (4×10&lt;sup&gt;4&lt;/sup&gt;)&lt;sup&gt;(1/2)&lt;/sup&gt;
+ANSWER: 4 × 10&lt;sup&gt;5&lt;/sup&gt;
+TOSS-UP
+5) EARTH SCIENCE Multiple Choice The overall charge at the top and bottom, respectively, of a towering cumulonimbus cloud during a thunderstorm is:
+W) positive, positive 
+X) positive, negative 
+Y) negative, positive 
+Z) negative, negative
+ANSWER: X) POSITIVE, NEGATIVE
+BONUS
+5) EARTH SCIENCE Multiple Choice A lightning bolt is seen and its accompanying thunder is heard 15 seconds later. This means the storm is most likely how many miles away:
+W) 3 
+X) 6 
+Y) 9 
+Z) 15
+ANSWER: W) 3
+TOSS-UP
+6) GENERAL SCIENCE Short Answer How many significant figures are in the number 0.00750? 
+ANSWER: 3
+BONUS
+6) GENERAL SCIENCE Short Answer Subtract the following 2 numbers and give your answer with the proper significant figures: 25.101 – 0.9608
+ANSWER: 24.140
+TOSS-UP
+7) ASTRONOMY Short Answer What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole?
+ANSWER: NORTH STAR (ACCEPT: POLARIS or ALPHA URSA MINORIS)
+BONUS
+7) ASTRONOMY Short Answer What is the most well-known asterism in Ursa Major? 
+ANSWER: BIG DIPPER
+TOSS-UP
+8) BIOLOGY Multiple Choice Human epidermis is mostly composed of which of the following basic animal tissues types:
+W) epithelial 
+X) connective 
+Y) nervous 
+Z) muscle
+ANSWER: W) EPITHELIAL
+BONUS
+8) BIOLOGY Short Answer What are the 2 basic categories of lymphocyte cells? 
+ANSWER: T AND B (ACCEPT: B AND T CELLS)
+TOSS-UP
+9) CHEMISTRY Short Answer What general type of bonding is found in molecules in which electrons are shared by nuclei?
+ANSWER: COVALENT
+BONUS
+9) CHEMISTRY Short Answer Name all of the following 4 processes where latent heat is absorbed: evaporation; condensation; water melts; water freezes
+ANSWER: EVAPORATION; WATER MELTS
+TOSS-UP
+10) PHYSICS Short Answer Although not known as such at the time, what was the first form of spectacular electric discharge seen by humans?
+ANSWER: LIGHTNING
+BONUS
+10) PHYSICS Multiple Choice A constant force acting on a body experiencing no change in its environment will give the body:
+W) constant acceleration 
+X) constant speed
+Y) constant velocity
+Z) zero acceleration
+ANSWER: W) CONSTANT ACCELERATION
+TOSS-UP
+11) MATH Short Answer Simplify the following expression, where a is not equal to zero if b = 0 or if b=–1: (a&lt;sup&gt;b^2&lt;/sup&gt;)(a&lt;sup&gt;b&lt;/sup&gt;)
+ANSWER: a&lt;sup&gt;b^2+b&lt;/sup&gt;
+BONUS
+11) MATH Short Answer Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90&amp;#176; triangle is 10 inches, find the length of the other sides: 
+ANSWER: 5&amp;radic;2 (ACCEPT: BOTH 5&amp;radic;2 )
+TOSS-UP
+12) EARTH SCIENCE Multiple Choice Which of the following is a sedimentary rock:
+W) slate
+X) marble
+Y) basalt
+Z) sandstone
+ANSWER: Z) SANDSTONE
+BONUS
+12) EARTH SCIENCE Multiple Choice Which of the following is LEAST accurate about minerals:
+W) calcite has a hardness of 3 on most of its surfaces but a hardness of 4 along the crystal face perpendicular to its long axis
+X) the Moh’s scale measures the absolute hardness of minerals
+Y) a mineral’s chemical composition largely determines its crystal shape and cleavage pattern
+Z) a mineral’s color is the same as its streak
+ANSWER: Z) A MINERAL’S COLOR IS THE SAME AS ITS STREAK
+TOSS-UP
+13) GENERAL SCIENCE Multiple Choice Which of the following is closest to the meaning of the suffix ‘lith’:
+W) outside
+X) stone
+Y) side
+Z) surface
+ANSWER: X) STONE
+BONUS
+13) GENERAL SCIENCE Short Answer Rounded to the nearest whole number, how many feet does light travel in one-billionth of one second?
+ANSWER: 1
+TOSS-UP
+14) ASTRONOMY Short Answer What star has the greatest apparent magnitude?
+ANSWER: SUN
+BONUS
+14) ASTRONOMY Short Answer What planet is known to be most like Earth in size and density?
+ANSWER: VENUS
+TOSS-UP
+15) BIOLOGY Short Answer How many embryonic seed leaves does a bean seedling have?
+ANSWER: 2
+BONUS
+15) BIOLOGY Short Answer Name all of the following 5 plants that are dicots: wheat; geranium; garlic; bamboo; rose
+ANSWER: GERANIUM; ROSE
+TOSS-UP
+16) CHEMISTRY Multiple Choice Which of the following is a metallic element, composes about 5% of the Earth’s crust, oxidizes very easily, and when pure is a dark, silver-grey metal:
+W) cobalt
+X) nickel
+Y) iron
+Z) titanium
+ANSWER: Y) IRON
+BONUS
+16) CHEMISTRY Short Answer In general, metals are relatively hard except for what group of metals in the Periodic Table?
+ANSWER: ONE (ACCEPT: GROUP 1A or ALKALI METALS)
+TOSS-UP
+17) PHYSICS Multiple Choice Upon which of the following does the mass of a body MOST directly depend:
+W) its magnetic properties
+X) how much volume it has
+Y) the amount of matter it contains
+Z) its location
+ANSWER: Y) THE AMOUNT OF MATTER IT CONTAINS
+BONUS
+17) PHYSICS Multiple Choice Mary and Joe are on a merry-go-round. Mary is seated near the center of rotation and Joe is on the outer edge. Which of the following BEST describes their motion:
+W) Mary has a greater acceleration than Joe
+X) Joe has a greater acceleration than Mary
+Y) neither Mary nor Joe are accelerating
+Z) both Mary and Joe have the same acceleration
+ANSWER: X) JOE HAS A GREATER ACCELERATION THAN MARY
+TOSS-UP
+18) MATH Short Answer Giving your answer in terms of &amp;pi; and in inches, what is the arc-length of a semi-circle whose diameter is 18 inches?
+ANSWER: 9&amp;pi;
+BONUS
+18) MATH Short Answer What is the area, in square feet, of a triangle whose perpendicular height is 20 feet with a base of 12 feet?
+ANSWER: 120
+TOSS-UP
+19) EARTH SCIENCE Multiple Choice Which of the following terms best describes the albedo of a planet:
+W) electromagnetic energy
+X) density
+Y) reflectivity
+Z) absorption
+ANSWER: Y) REFLECTIVITY
+BONUS
+19) EARTH SCIENCE Multiple Choice Which of the following is NOT true of what occurs during an equinox:
+W) equal length of day and night except at the poles
+X) the Earth is not tilted with respect to the ecliptic
+Y) the Sun is directly overhead at the equator
+Z) the Moon is directly overhead at the poles
+ANSWER: Z) THE MOON IS DIRECTLY OVERHEAD AT THE POLES
+TOSS-UP
+20) GENERAL SCIENCE Short Answer What gas is most directly responsible for the bends or decompression sickness that divers may experience?
+ANSWER: NITROGEN (ACCEPT: N&lt;sub&gt;2&lt;/sub&gt;)
+BONUS
+20) GENERAL SCIENCE Short Answer In degrees Celsius to the nearest whole number, what is the normal core body temperature of a human being?
+ANSWER: 37
+TOSS-UP
+21) ASTRONOMY Short Answer What is the declination of the north celestial pole?
+ANSWER: 90 (ACCEPT: +90)
+BONUS
+21) ASTRONOMY Short Answer The Sagittarius Arm is part of what galaxy?
+ANSWER: THE MILKY WAY
+TOSS-UP
+22) BIOLOGY Multiple Choice If a plant had a taproot, it would also most likely have:
+W) parallel leaf venation
+X) two cotyledons in its seedling stage
+Y) diffusely arranged vascular bundles in its stem
+Z) no stomata on the upper surfaces of its leaves
+ANSWER: X) TWO COTYLEDONS IN ITS SEEDLING STAGE
+BONUS
+22) BIOLOGY Short Answer Using the traditional system of classification, when organisms belong to the same class, name all of the following 4 taxonomic categories to which they must also belong: order; family; phylum; kingdom
+ANSWER: PHYLUM; KINGDOM
+TOSS-UP
+23) CHEMISTRY Short Answer According to standard chemical nomenclature and indicating the proper charge, what is the formula for hydrogen sulfide?
+ANSWER: H&lt;sub&gt;2&lt;/sub&gt;S
+BONUS
+23) CHEMISTRY Short Answer Of the following group of 4 cations, which are the LARGEST and SMALLEST ions, respectively: K&lt;sup&gt;+&lt;/sup&gt;; Na&lt;sup&gt;+&lt;/sup&gt;; Rb&lt;sup&gt;+&lt;/sup&gt;; Li&lt;sup&gt;+&lt;/sup&gt;
+ANSWER: LARGEST = Rb&lt;sup&gt;+&lt;/sup&gt;; SMALLEST = Li&lt;sup&gt;+&lt;/sup&gt; (ACCEPT: RUBIDIUM AND LITHIUM)
+TOSS-UP
+24) PHYSICS Multiple Choice Martin is swinging a yo-yo in a large room with a circular motion perpendicular to a level floor. If the yo-yo breaks away from its string at the top of the yo-yo’s circular path, in what direction will the yo-yo initially move:
+W) at an angle between horizontal and vertical
+X) straight up, toward the ceiling
+Y) straight down, to the floor
+Z) horizontally, tangent to its original circular path
+ANSWER: Z) HORIZONTALLY, TANGENT TO ITS ORIGINAL CIRCULAR PATH
+BONUS
+24) PHYSICS Short Answer What is the BEST term for the tendency of any mass at rest to remain at rest?
+ANSWER: INERTIA
+TOSS-UP
+25) BIOLOGY Short Answer What is the genus name of the most thoroughly studied bacterium?
+ANSWER: Escherichia
+BONUS
+25) BIOLOGY Short Answer Name all of the following 3 processes that do NOT occur in E. coli: glycolysis; photosynthesis; glycogenolysis (read as: GLYKO-jen-oh-LY-sis)
+ANSWER: PHOTOSYNTHESIS

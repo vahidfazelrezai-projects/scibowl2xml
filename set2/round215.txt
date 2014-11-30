@@ -1,0 +1,171 @@
+TOSS-UP
+1) PHYSICS Multiple Choice Which of the following best describes mesons:
+W) a subgroup of leptons X) a subgroup of hadrons Y) hadronic leptons Z) particles with a spin of 1
+ANSWER: X) A SUBGROUP OF HADRONS
+BONUS
+1) PHYSICS Multiple Choice Which of the following most directly describes the de Broglie wavelength:
+W) wavelength equals Planck's constant over the quantity mass times velocity X) wavelength equals mass times velocity over Planck's constant Y) energy equals Planck's constant times frequency Z) Planck's constant equals mass times the speed of light over the frequency
+ANSWER: W) WAVELENGTH EQUALS PLANCK'S CONSTANT OVER THE QUANTITY MASS TIMES VELOCITY
+TOSS-UP
+2) BIOLOGY Multiple Choice Species similarity is partly based on DNA hybridization studies that determine:
+W) similarity in where restriction enzymes cleave X) determining exact nucleotide sequences Y) generating a restriction enzyme map Z) degree of base pairing between DNA strands
+ANSWER: Z) DEGREE OF BASE PAIRING BETWEEN DNA STRANDS
+BONUS
+2) BIOLOGY Short Answer In the Calvin cycle, for each 6 CO&lt;sub&gt;2&lt;/sub&gt; fixed how many PGAL are typically formed?
+ANSWER: 12
+2002 Regional Science Bowl B Round 15 Page 1 TOSS-UP
+3) CHEMISTRY Multiple Choice A fermentation reaction and a saponification reaction are similar in that they both can produce:
+W) a soap X) an ester Y) an alcohol Z) an acid
+ANSWER: X) AN ESTER
+BONUS
+3) CHEMISTRY Short Answer What is the degree of unsaturation for a ring chain of the molecule C&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;16&lt;/sub&gt;, assuming it contains only sigma bonds?
+ANSWER: 2
+TOSS-UP
+4) ASTRONOMY Short Answer If it were to be renamed today based on what constellation the sun is in on December 22&lt;sup&gt;nd&lt;/sup&gt;, what would the new name be for the Tropic of Capricorn?
+ANSWER: TROPIC OF SAGITTARIUS (ACCEPT: SAGITTARIUS)
+BONUS
+4) ASTRONOMY Short Answer How many arc-seconds wide, rounded to the nearest whole number, would Galileo have been able to resolve with his telescope, if one assumes that its 1.7 inch diameter lens was free of optical aberrations?
+ANSWER: 3
+2002 Regional Science Bowl B Round 15 Page 2 TOSS-UP
+5) MATH Multiple Choice Simplify the following trigonometric equation for a right triangle ABC whose right angle is at B: (cosecant&lt;sup&gt;2&lt;/sup&gt; A - 1) x  cosine(90&amp;deg; - A) / sine(90&amp;deg; - A)
+W) sine A X) cosine A Y) tangent A Z) cotangent A
+ANSWER: Z) COTANGENT A
+BONUS
+5) MATH Short Answer The monthly revenue, in dollars, for sales of widgets is given by the equation R(q) = 8.5q - 0.02q&lt;sup&gt;2&lt;/sup&gt;, where q is the number of widgets made per month. The cost for creating the widgets is given by the equation, C(q) = 200 + 0.5q dollars. A maximum of 400 widgets can be made in 1 month. How many widgets should be made each month to maximize the profit, as given by the revenue minus the cost?
+ANSWER: 200
+TOSS-UP
+6) EARTH SCIENCE Multiple Choice Which of the following organisms eventually sediments onto the ocean seafloor as a calcareous ooze:
+W) foraminifera X) radiolarians Y) diatoms Z) fish scales
+ANSWER: W) FORAMINIFERA
+BONUS
+6) EARTH SCIENCE Short Answer In the geological time scale, the Devonian Period belongs to which Era?
+ANSWER: PALEOZOIC
+2002 Regional Science Bowl B Round 15 Page 3 TOSS-UP
+7) GENERAL SCIENCE Multiple Choice Cyanocobalamin (Pronounced SIGH-ano-CO-bal-amin) is more commonly known as:
+W) vitamin B&lt;sub&gt;12&lt;/sub&gt; X) vitamin D Y) vitamin A Z) vitamin K&lt;sub&gt;3&lt;/sub&gt;
+ANSWER: W) VITAMIN B&lt;sub&gt;12&lt;/sub&gt;
+BONUS
+7) GENERAL SCIENCE Short Answer What disease was first discovered in the mid-19&lt;sup&gt;th&lt;/sup&gt; century in the Far East and later correlated to a vitamin deficiency caused by the introduction of polished rice as a food staple?
+ANSWER: BERI-BERI
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice In C programming, the number used to refer to a particular element of an array is called its:
+W) numerator X) superscript Y) subscript Z) exponent
+ANSWER: Y) SUBSCRIPT
+BONUS
+8) COMPUTER SCIENCE Multiple Choice The following are all reasons why the LISP programming language is NOT widely used except:
+W) its dependence on recursion X) most LISP systems are interpreted, and thus slower Y) LISP is only effective for explicitly defined problems Z) dynamic storage allocation is expensive
+ANSWER: Y) LISP IS ONLY EFFECTIVE FOR EXPLICITLY DEFINED PROBLEMS
+2002 Regional Science Bowl B Round 15 Page 4 TOSS-UP
+9) PHYSICS Short Answer What name did Marie and Pierre Curie give the radioactive substance they separated from uranium ore that had chemical properties close to bismuth?
+ANSWER: POLONIUM
+BONUS
+9) PHYSICS Short Answer In collaboration with Bemout, the Curies found what other radioactive substance with chemical properties similar to barium?
+ANSWER: RADIUM
+TOSS-UP
+10) BIOLOGY Short Answer ATP is to energy-rich phosphate as NADPH&lt;sub&gt;2&lt;/sub&gt; is to energy-rich:
+ANSWER: ELECTRONS
+BONUS
+10) BIOLOGY Short Answer Order the following 3 monosaccharides from the smallest to the largest: erythrose, glyceraldehyde, arabinose
+ANSWER: GLYCERALDEHYDE, ERYTHROSE, ARABINOSE
+2002 Regional Science Bowl B Round 15 Page 5 TOSS-UP
+11) CHEMISTRY Multiple Choice In general, a buffer solution used in titrations is characteristically which of the following:
+W) a strong acid and its conjugate base X) a strong base and its conjugate acid Y) a weak acid and its conjugate base Z) a solution that changes very rapidly in pH when acids or bases are added
+ANSWER: Y) A WEAK ACID AND ITS CONJUGATE BASE
+BONUS
+11) CHEMISTRY Multiple Choice According to the Henderson-Hasselbalch equation, the pH equals the pKa (read as: p, k, a) when the ratio of the conjugate base and weak acid equals:
+W) 0 X) 1 Y) 2 Z) 7
+ANSWER: X) 1
+TOSS-UP
+12) ASTRONOMY Short Answer Members of the "Key Project", while working with the Hubble space telescope, are using observation primarily of what specific type of celestial object to calculate the Hubble constant?
+ANSWER: CEPHEIDS (ACCEPT: CEPHEID VARIABLES)
+BONUS
+12) ASTRONOMY Short Answer Rounded to the first decimal place, how many synodic months are in an accurate calendar year if a tropical year is 365.2 days?
+ANSWER: 12.4
+2002 Regional Science Bowl B Round 15 Page 6 TOSS-UP
+13) MATH Short Answer In 1931, who disproved that axioms of arithmetic were consistent and could sufficiently prove or disprove any mathematical conjecture?
+ANSWER: KURT GODEL (ACCEPT: GODEL)
+BONUS
+13) MATH Short Answer What is the derivative of the following expression with respect to the variable x: 4x&lt;sup&gt;3/2&lt;/sup&gt;-5x&lt;sup&gt;1/2&lt;/sup&gt; (Read as: 4x to the 3/2 power minus 5x to the 1/2 power)
+ANSWER: 6x&lt;sup&gt;1/2&lt;/sup&gt;-2.5x&lt;sup&gt;-1/2&lt;/sup&gt; (ACCEPT: 6x&lt;sup&gt;0.5&lt;/sup&gt;-2.5x&lt;sup&gt;-0.5&lt;/sup&gt;)
+TOSS-UP
+14) EARTH SCIENCE Short Answer Land is to tornadoes as the ocean is to what?
+ANSWER: WATERSPOUTS
+BONUS
+14) EARTH SCIENCE Multiple Choice Which of the following is TRUE regarding the development of a hurricane:
+W) they develop in waters of at least 80&amp;deg;F at 0&amp;deg; latitude X) they develop in waters of at least 80&amp;deg;F between 20&amp;deg; and 40&amp;deg; latitude Y) a hurricane originating in the eastern tropical Atlantic is driven westward by westerly trade winds in the tropics Z) they develop in waters of at least 80&amp;deg;F between 5&amp;deg; and 20&amp;deg; latitude
+ANSWER: Z) THEY DEVELOP IN WATERS OF AT LEAST 80&amp;deg;F BETWEEN 5&amp;deg; AND 20&amp;deg; LATITUDE
+2002 Regional Science Bowl B Round 15 Page 7 TOSS-UP
+15) GENERAL SCIENCE Multiple Choice In computer graphics, the electronic process of eliminating or reducing jaggies in an image is called:
+W) pixelation X) anti-aliasing Y) digitizing Z) radial filling
+ANSWER: X) ANTI-ALIASING
+BONUS
+15) GENERAL SCIENCE Multiple Choice A termite is best classified in which trophic level:
+W) herbivore X) omnivore Y) primary detritivore Z) secondary detritivore
+ANSWER: W) HERBIVORE
+TOSS-UP
+16) COMPUTER SCIENCE Multiple Choice In the Operating System environment, what is a shell:
+W) a specific type of operating system X) a user application program written in Java Y) the interface that interprets commands between the user and the operating system Z) the part of the operating system which allocates blocks of memory to a process
+ANSWER: Y) THE INTERFACE THAT INTERPRETS COMMANDS BETWEEN THE USER AND THE OPERATING SYSTEM
+BONUS
+16) COMPUTER SCIENCE Short Answer As a format for representing integers in which each digit is represented by four bits, what does the acronym BCD stand for?
+ANSWER: BINARY-CODED DECIMAL
+2002 Regional Science Bowl B Round 15 Page 8 TOSS-UP
+17) PHYSICS Short Answer Considering air resistance is negligible and that gravitational acceleration is 9.8 meters per second squared, what is the velocity acquired by a body in free fall, starting from rest, after 5 seconds?
+ANSWER: 49 METERS/SECOND
+BONUS
+17) PHYSICS Multiple Choice If a person passes a yard stick at 1/2 light speed, what length would he measure the yard to be, rounded to the second decimal place:
+W) 1.13 yards X) 0.13 yards Y) 0.75 yards Z) 0.87 yards
+ANSWER: Z) 0.87 YARDS
+TOSS-UP
+18) BIOLOGY Short Answer What term, coined by Mendel, delineates the variant form of a gene?
+ANSWER: ALLELE
+BONUS
+18) BIOLOGY Multiple Choice Which of the following pore-size filters would typically be the upper size limit to ensure removal of all bacteria:
+W) 5.0 microns X) 1.5 microns Y) 0.85 microns Z) 0.22 microns
+ANSWER: Z) 0.22 MICRONS
+2002 Regional Science Bowl B Round 15 Page 9 TOSS-UP
+19) CHEMISTRY Multiple Choice Which of the following is considered a chiral object:
+W) a coffee cup X) a tennis ball Y) a corkscrew Z) a banana
+ANSWER: Y) A CORKSCREW
+BONUS
+19) CHEMISTRY Short Answer If a 5.0 x 10&lt;sup&gt;5&lt;/sup&gt; liter swimming pool at 25&amp;deg;C contains 35 grams of chloride ions, what is the concentration of chloride ions in parts per million?
+ANSWER: 0.07
+TOSS-UP
+20) ASTRONOMY Short Answer The two points where the ecliptic intersects the celestial equator are known as what:
+ANSWER: EQUINOXES
+BONUS
+20) ASTRONOMY Short Answer If a star were to be 9 times farther away than it originally was, how many times fainter would it appear to be if all other things remain constant?
+ANSWER: 81 TIMES
+2002 Regional Science Bowl B Round 15 Page 10 TOSS-UP
+21) EARTH SCIENCE Short Answer What term is given to a body of sediments deposited where a stream flows into a body of standing water and its velocity and transporting power are suddenly reduced?
+ANSWER: DELTA (ACCEPT: DELTA PLAIN)
+BONUS
+21) EARTH SCIENCE Short Answer The land counterpart of a delta, what is the term for a fan- shaped assemblage of sediments built where a stream moves from a steep gradient to a flatter gradient and suddenly loses transporting power?
+ANSWER: ALLUVIAL FAN
+TOSS-UP
+22) GENERAL SCIENCE Multiple Choice When referring to disease, endemic refers to:
+W) the habitual presence of disease within a geographic population X) the occurrence of a group of illnesses clearly in excess of normal expectancy Y) a worldwide epidemic Z) diseases which often exhibit a seasonal pattern
+ANSWER: W) THE HABITUAL PRESENCE OF DISEASE WITHIN A GEOGRAPHIC POPULATION
+BONUS
+22) GENERAL SCIENCE Short Answer What are the five countries that currently produce the greatest amount of nuclear electric energy?
+ANSWER: USA, FRANCE, JAPAN, GERMANY AND RUSSIA (accept in any order)
+2002 Regional Science Bowl B Round 15 Page 11 TOSS-UP
+23) PHYSICS Short Answer What scientific term is most often used when specifically referring to the nucleus of a deuterium atom?
+ANSWER: DEUTERON
+BONUS
+23) PHYSICS Short Answer Classify the following 3 particles as bosons, leptons, mesons, or baryons: muon; pion; neutron
+ANSWER: MUON = LEPTON; PION = MESON; NEUTRON = BARYON
+TOSS-UP
+24) BIOLOGY Short Answer In primates, what is the final product of most purine degradation?
+ANSWER: URIC ACID
+BONUS
+24) BIOLOGY Short Answer When bacteria are introduced into a nutrient rich medium they follow a standard bacterial growth curve. Place the following into the proper sequence from the earliest to the latest in this growth phase: stationary, log, decline, lag
+ANSWER: LAG, LOG, STATIONARY, DECLINE
+2002 Regional Science Bowl B Round 15 Page 12 TOSS-UP
+25) CHEMISTRY Multiple Choice According to Beer's law:
+W) the energy of a photon of light is inversely proportional to its wavelength X) the concentration of a species that absorbs light can be measured by the amount of light absorbed Y) the energy of characteristic X-rays increases with increasing atomic number of the emitting element Z) excitation of the electrons in a molecule takes place on a shorter time scale than motion of the nuclei
+ANSWER: X) THE CONCENTRATION OF A SPECIES THAT ABSORBS LIGHT CAN BE MEASURED BY THE AMOUNT OF LIGHT ABSORBED
+BONUS
+25) CHEMISTRY Short Answer What is the efficiency, in percent, of a Carnot cycle operating between 1140&amp;deg;F and 140&amp;deg;F?
+ANSWER: 62.5%
+2002 Regional Science Bowl B Round 15 Page 13

@@ -1,0 +1,234 @@
+ROUND 11TOSS-UP
+1) CHEMISTRY Multiple Choice Which of the following is NOT true:
+W) any foreign substance added to water will cause a freezing point drop 
+X) a nonvolatile solute raises the boiling point of a solvent
+Y) methane has a higher boiling point than ethane
+Z) freezing point depression is a colligative property
+ANSWER: Y) METHANE HAS A HIGHER BOILING POINT THAN ETHANE
+BONUS
+1) CHEMISTRY Short Answer According to standard chemical nomenclature, what is the formula for aluminum bicarbonate?
+ANSWER: Al(HCO3)3
+TOSS-UP
+2) BIOLOGY Multiple Choice Which of the following types of biological molecules is digested by trypsin:
+W) proteins
+X) nucleic acids 
+Y) carbohydrates 
+Z) lipids
+ANSWER: W) PROTEINS
+BONUS
+2) BIOLOGY Short Answer Name all of the following 4 choices that are typically considered human autoimmune dysfunctions: Rheumatoid arthritis; Lupus; shingles; Down’s syndrome
+ANSWER: RHEUMATOID ARTHRITIS; LUPUS
+TOSS-UP
+3) PHYSICS Multiple Choice Which of the following is closest to the radius of a hydrogen nucleus:
+W) 1 micrometer 
+X) 1 angstrom 
+Y) 1 picometer 
+Z) 1 femtometer
+ANSWER: Z) 1 FEMTOMETER
+BONUS
+3) PHYSICS Short Answer Consider a planet where g equals 5.0 meters per second squared. Ignoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0 seconds, giving your answer in standard SI units?
+ANSWER: 40 METERS (must give units) 
+TOSS-UP
+4) MATH Multiple Choice The graph of the relation y = −&amp;radic;(25 − x&lt;sup&gt;2&lt;/sup&gt;) is a:
+W) circle
+X) semi-circle 
+Y) parabola
+Z) straight line
+ANSWER: X) SEMI-CIRCLE
+BONUS
+4) MATH Short Answer If y varies directly as x and z, and y = 12 when x = 4 and z = 5, find y when x = 10 and z = 20:
+ANSWER: 120
+TOSS-UP
+5) EARTH SCIENCE Short Answer What is the third most common gas naturally found in the Earth’s clean, dry atmosphere?
+ANSWER: ARGON
+BONUS
+5) EARTH SCIENCE Multiple Choice The Earth’s greenhouse effect is primarily caused by which of the following:
+W) incoming solar ultraviolet light is absorbed by the ozone layer
+X) outgoing infrared solar radiation is trapped by the lower atmosphere
+Y) incoming infrared solar radiation is trapped by the magnetic field
+Z) outgoing X-rays are absorbed by the troposphere and reflected to the Earth’s surface
+ANSWER: X) OUTGOING INFRARED SOLAR RADIATION IS TRAPPED BY THE LOWER ATMOSPHERE
+TOSS-UP
+6) GENERAL SCIENCE Multiple Choice Ed the entomologist is setting up mosquito traps in a farmer’s field in Nebraska. Which of the following would be the BEST mosquito attractant to ensure he traps the greatest number and variety of mosquitoes:
+W) oxygen 
+X) nitrogen 
+Y) dry ice 
+Z) methane
+ANSWER: Y) DRY ICE
+BONUS
+6) GENERAL SCIENCE Short Answer Rounded to the nearest whole number, convert 3,000 meters per second into kilometers per hour:
+ANSWER: 10,800
+TOSS-UP
+7) ASTRONOMY Multiple Choice Which of the following is LEAST accurate:
+W) most stars visible to the unaided eye are part of the Milky Way galaxy
+X) there are 88 constellations officially recognized by the IAU
+Y) a red supergiant has a hotter surface than our Sun
+Z) the constellation Leo is located within 9&amp;deg; of the ecliptic
+ANSWER: Y) A RED SUPERGIANT HAS A HOTTER SURFACE THAN OUR SUN
+BONUS
+7) ASTRONOMY Multiple Choice Which of the following is NOT true:
+W) the core of a red supergiant is hotter than the core of a main sequence K-type star
+X) helium flash is something that occurs in red giant stars
+Y) the Pleiades is an open star cluster
+Z) there is more lithium than carbon in the universe
+ANSWER: Z) THERE IS MORE LITHIUM THAN CARBON IN THE UNIVERSE
+TOSS-UP
+8) CHEMISTRY Multiple Choice Carbon monoxide, or CO, will be adsorbed (read as: ADD-sorbed) onto the surface of which of the following metals the MOST strongly:
+W) iron 
+X) nickel 
+Y) cobalt 
+Z) gold
+ANSWER: W) IRON
+BONUS
+8) CHEMISTRY Short Answer Arrange the following 3 choices in order of increasing bond energies: O&lt;sub&gt;2&lt;/sub&gt;; N&lt;sub&gt;2&lt;/sub&gt;; F&lt;sub&gt;2&lt;/sub&gt;
+ANSWER: F&lt;sub&gt;2&lt;/sub&gt;; O&lt;sub&gt;2&lt;/sub&gt;; N&lt;sub&gt;2&lt;/sub&gt;
+TOSS-UP
+9) BIOLOGY Multiple Choice At which of the following pH levels will human pepsin be most active:
+W) 2 
+X) 4 
+Y) 6 
+Z) 8
+ANSWER: W) 2
+BONUS
+9) BIOLOGY Short Answer What is the most plentiful class of immunoglobulins in human plasma?
+ANSWER: IgG (ACCEPT: G or IMMUNOGLOBULIN G)
+TOSS-UP
+10) PHYSICS Short Answer What constant is given as the amount of electric charge per mole of electrons?
+ANSWER: FARADAY CONSTANT (ACCEPT: FARADAY)
+BONUS
+10) PHYSICS Multiple Choice Which of the following best describes the direction of the force on an electron moving through a magnetic field:
+W) opposite to the direction of the velocity 
+X) the same direction as the velocity
+Y) the same direction as the magnetic field
+Z) perpendicular to the magnetic field
+ANSWER: Z) PERPENDICULAR TO THE MAGNETIC FIELD
+TOSS-UP
+11) MATH Multiple Choice Which of the following is a second quadrant angle in standard position:
+W) 500&amp;deg;
+X) –180&amp;deg;
+Y) –680&amp;deg; 
+Z) 930&amp;deg;
+ANSWER: W) 500&amp;deg;
+BONUS
+11) MATH Short Answer Giving your answer in simplest radical form, rationalize the denominator of the following expression: −3&amp;radic;2 / (&amp;radic;3 − &amp;radic;5)
+ANSWER: (3&amp;radic;6 + 3&amp;radic;10)/2 (ACCEPT: 3(&amp;radic;6 + &amp;radic;10)/2 )
+TOSS-UP
+12) EARTH SCIENCE Multiple Choice Which of the following minerals occurs in small amounts in many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with good cleavage:
+W) biotite
+X) olivine
+Y) plagioclase
+Z) quartz
+ANSWER: W) BIOTITE
+BONUS
+12) EARTH SCIENCE Multiple Choice Which of the following is NOT true of basalt and gabbro:
+W) they formed from magma at the same temperature
+X) they are derived from basaltic magma
+Y) they formed from magma with the same silica content
+Z) they are both intrusive igneous rocks
+ANSWER: Z) THEY ARE BOTH INTRUSIVE IGNEOUS ROCKS
+TOSS-UP
+13) GENERAL SCIENCE Multiple Choice A standard rain gauge consists of a metal canister open at the top in which a funnel drains rainwater into a narrow cylinder. Each time they are deployed to the field, a small amount of light oil is added to the cylinder. This is done to:
+W) deter birds from drinking the water
+X) stop the canister from oxidizing
+Y) prevent the growth of blue-green algae
+Z) prevent water evaporation
+ANSWER: Z) PREVENT WATER EVAPORATION
+BONUS
+13) GENERAL SCIENCE Multiple Choice Which of the following is a widely-used analgesic and antipyretic medication which is not considered an NSAID (read as: en-say’d):
+W) acetylcysteine
+X) acetaminophen
+Y) acetylsalicylic acid
+Z) ibuprophen
+ANSWER: X) ACETAMINOPHEN
+TOSS-UP
+14) ASTRONOMY Multiple Choice Which of the following is LEAST likely to occur for a stargazer observing from mid-northern latitudes during summer months:
+W) the planet Venus passing within a few degrees of the Moon a few hours after sunset
+X) the Moon at perigee
+Y) the planet Saturn passing with 5 degrees of the Moon
+Z) the planet Mercury within 10 degrees of the zenith
+ANSWER: Z) THE PLANET MERCURY WITHIN 10 DEGREES OF THE ZENITH
+BONUS
+14) ASTRONOMY Short Answer Through how many degrees does the Earth rotate in 8 hours?
+ANSWER: 120
+TOSS-UP
+15) CHEMISTRY Multiple Choice The molal (read as: moe-lahl) is a concentration unit that is most appropriately used in experimental designs that determine:
+W) freezing point depression
+X) osmotic pressure
+Y) density
+Z) vapor pressure lowering
+ANSWER: W) FREEZING POINT DEPRESSION
+BONUS
+15) CHEMISTRY Short Answer A 4.0 gram sample of calcium chloride contains 6.0 × 10&lt;sup&gt;22&lt;/sup&gt; cations. Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl&lt;sub&gt;2&lt;/sub&gt;. Assume the atomic mass of calcium is 40 and chloride is 35.
+ANSWER: 6 × 10&lt;sup&gt;22&lt;/sup&gt;
+TOSS-UP
+16) BIOLOGY Multiple Choice Which of the following is the main target of bacteria by the antibiotic penicillin:
+W) energy production
+X) DNA synthesis
+Y) cell wall synthesis
+Z) translation
+ANSWER: Y) CELL WALL SYNTHESIS
+BONUS
+16) BIOLOGY Short Answer What is the most common term for the form of protection when a non-poisonous frog has the same appearance as a poisonous frog?
+ANSWER: BATESIAN MIMICRY (ACCEPT: MIMICRY or WARNING MIMICRY) (DO NOT ACCEPT: MULLERIAN MIMICRY)
+TOSS-UP
+17) PHYSICS Multiple Choice During positron emission, which of the following most likely occurs:
+W) a proton changes to an electron
+X) a proton changes to a neutron
+Y) a neutron changes to an electron
+Z) a neutron changes to a proton
+ANSWER: X) A PROTON CHANGES TO A NEUTRON
+BONUS
+17) PHYSICS Short Answer Name all of the following 4 isotopes that release energy if they undergo fission: helium-4; hydrogen-2; uranium-235; iron-56
+ANSWER: URANIUM-235
+TOSS-UP
+18) MATH Short Answer Identify the type of conic section represented by the equation, x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt; + 10y + 16 = 0:
+ANSWER: CIRCLE
+BONUS
+18) MATH Short Answer Find the area, in centimeters squared and in simplest radical form, of a regular or equilateral triangle whose circumcircle has a radius of 8 centimeters:
+ANSWER: 48&amp;radic;3
+TOSS-UP
+19) EARTH SCIENCE Short Answer What type of fog frequently forms in valleys when the wind is light and the ground cools until the dew point is reached?
+ANSWER: RADIATION FOG (ACCEPT: RADIATION or RADIATIONAL)
+BONUS
+19) EARTH SCIENCE Short Answer Giving your answer as morning, afternoon, evening, or night, when does most radiational cooling occur for any location in the U.S.?
+ANSWER: NIGHT
+TOSS-UP
+20) GENERAL SCIENCE Short Answer What is the sling psychrometer used to measure?
+ANSWER: HUMIDITY (ACCEPT: RELATIVE HUMIDITY; AMBIENT HUMIDITY)
+BONUS
+20) GENERAL SCIENCE Multiple Choice From which of the following is camphor derived:
+W) petroleum distillate
+X) the wood of an evergreen tree of the laurel family 
+Y) the bark of a fir tree from the Mediterranean
+Z) the seed pod of the camphor herb
+ANSWER: X) THE WOOD OF AN EVERGREEN TREE OF THE LAUREL FAMILY
+TOSS-UP
+21) ASTRONOMY Short Answer As seen from the Earth, what planet has the smallest maximum eastern elongation?
+ANSWER: MERCURY
+BONUS
+21) ASTRONOMY Short Answer Choosing from noon, sunset, midnight or sunrise, at what time of the day does a new Moon rise for an observer at mid-northern latitudes in September?
+ANSWER: SUNRISE
+TOSS-UP
+22) CHEMISTRY Short Answer What is the electron capacity in each of the 4 sublevels s, p, d, and f, respectively?
+ANSWER: s = 2; p = 6; d = 10; f = 14
+BONUS
+22) CHEMISTRY Short Answer A sample of oxygen gas is collected over water at 14&amp;deg;C. Knowing that the vapor pressure of water at 14&amp;deg;C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:
+ANSWER: 118.4
+TOSS-UP
+23) BIOLOGY Short Answer What cell in the peripheral blood is the immediate precursor of the macrophage?
+ANSWER: MONOCYTE
+BONUS
+23) BIOLOGY Short Answer Name all of the following 4 cells that are leukocytes: neutrophil; basophil; melanocyte; macrophage
+ANSWER: NEUTROPHIL; BASOPHIL
+TOSS-UP
+24) PHYSICS Short Answer As opposed to spontaneous emission, what is the type of emission, first theorized by Albert Einstein, where a photon interacts with an atom’s electron which, when it returns to a ground state, emits a coherent photon?
+ANSWER: STIMULATED EMISSION (ACCEPT: STIMULATED)
+BONUS
+24) PHYSICS Short Answer Order the following 4 choices from the one with the LOWEST temperature to the one with the HIGHEST temperature: copper freezes; water boils; solar corona; lead melts
+ANSWER: WATER BOILS; LEAD MELTS; COPPER FREEZES; SOLAR CORONA
+TOSS-UP
+25) MATH Short Answer Simplify i&lt;sup&gt;17&lt;/sup&gt; (read as: i to the 17th power):
+ANSWER: i
+BONUS
+25) MATH Short Answer Solve the following equation for x: 2&lt;sup&gt;7&lt;/sup&gt; × 2&lt;sup&gt;(x^2 − 2)&lt;/sup&gt; = 2&lt;sup&gt;21&lt;/sup&gt;
+ANSWER: 4 OR –4 (ACCEPT: x = &amp;#177;4 )

@@ -1,0 +1,174 @@
+TOSS-UP
+1) PHYSICS Multiple Choice Which of the following particles has not yet been detected but is generally theorized to exist:
+W) fermionic hadrons X) gluons Y) Higgs boson Z) mesons
+ANSWER: Y) HIGGS BOSON
+BONUS
+1) PHYSICS Short Answer Order the following from the substance with the lowest dielectric constant to the highest: air, quartz, rubber, pure water
+ANSWER: AIR, RUBBER, QUARTZ, PURE WATER
+TOSS-UP
+2) CHEMISTRY Short Answer The formula V/n = k, at constant T and P, is a representation of what gas law?
+ANSWER: AVOGADRO'S LAW
+BONUS
+2) CHEMISTRY Multiple Choice Electron configurations can be specified using orbital-filling diagrams, in which electrons are represented in standard nomenclature by up and down arrows. Which of the following best describes the arrows representing the 4p orbitals in Arsenic, whose atomic number is 33:
+W) 3 single up arrows X) one pair of up and down arrows, and a single up arrow Y) 3 pairs of up and down arrows Z) two pairs of up and down arrows and a single down arrow
+ANSWER: W) 3 SINGLE UP ARROWS
+2002 Regional Science Bowl B Round 17 Page 1 TOSS-UP
+3) BIOLOGY Short Answer Of the primary, secondary, tertiary, and quaternary levels of protein structure, what level is most directly changed in an amino acid substitution?
+ANSWER: PRIMARY
+BONUS
+3) BIOLOGY Multiple Choice Which of the following would be LEAST soluble in distilled water:
+W) propanoic acid X) phosphoglyceraldehyde Y) methanol Z) cholesterol
+ANSWER: Z) CHOLESTEROL
+TOSS-UP
+4) ASTRONOMY Multiple Choice Which of the following eyepieces is a modified Ramsden eyepiece with an achromatic lens:
+W) Huygens X) orthoscopic Y) Kellner Z) Erfle
+ANSWER: Y) KELLNER
+BONUS
+4) ASTRONOMY Short Answer Which two of the following five celestial bodies are not moons of Jupiter: Io, Charon, Titan, Ganymede, Callisto
+ANSWER: CHARON AND TITAN
+2002 Regional Science Bowl B Round 17 Page 2 TOSS-UP
+5) MATH Short Answer Using the Greek-derived names, what 5 polyhedra are often called platonic solids?
+ANSWER: TETRAHEDRON, HEXAHEDRON, OCTAHEDRON, DODECAHEDRON, ICOSAHEDRON (accept in any order)
+BONUS
+5) MATH Short Answer Assuming that x &amp;ne; 0, solve the following equation for x: 3/(2x) + 7/(3x) + 8/(4x) = 20
+ANSWER: x = 7/24 (ACCEPT: x = 70/240 OR 3.43)
+TOSS-UP
+6) EARTH SCIENCE Multiple Choice In the general Circulation of the atmosphere, what is the name given to the middle latitude cell marked by sinking motion near 30&amp;deg; and rising motion near 60&amp;deg; latitude:
+W) Polar cell X) Ferrel cell Y) Hadley cell Z) Rossby cell
+ANSWER: X) FERREL CELL
+BONUS
+6) EARTH SCIENCE Short Answer What is the form of frost in which a thick coating of ice crystals builds upon leaves, twigs and fences as is often seen at the tops of snow-covered mountain peaks?
+ANSWER: RIME ICE (ACCEPT: RIME OR HOAR FROST)
+2002 Regional Science Bowl B Round 17 Page 3 TOSS-UP
+7) GENERAL SCIENCE Multiple Choice Which of the following would best be used for an application that required a metal that does not emit sparks, resists corrosion, becomes stronger under very cold temperatures, and is an excellent thermal conductor:
+W) iron X) tin Y) copper Z) aluminum
+ANSWER: Z) ALUMINUM
+BONUS
+7) GENERAL SCIENCE Short Answer Order the following 4 ecosystems from the highest percentage of the Earth's surface to the lowest: tropical rainforest; continental shelf; tundra; estuary
+ANSWER: CONTINENTAL SHELF; TROPICAL RAINFOREST; TUNDRA; ESTUARY
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice The purpose of an ISDN network is to:
+W) determine a server's IP address from a domain name X) translate binary files to text-based email messaging Y) coordinate packet information for the many IP packets and addresses in an online transmission Z) set a specification for digital transmission of data over analog phone lines
+ANSWER: Z) SET A SPECIFICATION FOR DIGITAL TRANSMISSION OF DATA OVER ANALOG PHONE LINES
+BONUS
+8) COMPUTER SCIENCE Multiple Choice In Oracle databases, a foreign key is:
+W) a field which designates the language in which the table is represented X) a key to decrypt the information in a table Y) a mapping from a field in one table to information in another table Z) a link to a web site about the table
+ANSWER: Y) A MAPPING FROM A FIELD IN ONE TABLE TO INFORMATION IN ANOTHER TABLE
+2002 Regional Science Bowl B Round 17 Page 4 TOSS-UP
+9) PHYSICS Multiple Choice Oersted, during a classroom demonstration, accidentally showed the first example of:
+W) capacitance X) artificial lightening Y) electricity being stored in a capacitor Z) the connection between magnetism and electricity
+ANSWER: Z) THE CONNECTION BETWEEN MAGNETISM AND ELECTRICITY
+BONUS
+9) PHYSICS Short Answer Assuming the specific heat of aluminum is 0.9 Joules per gram per degree, how much energy, in kilojoules rounded to the first decimal place, must be added to 500 grams of aluminum to raise its temperature from 10&amp;deg;C to 70&amp;deg;C?
+ANSWER: 27 KILOJOULES
+TOSS-UP
+10) CHEMISTRY Multiple Choice Addition reactions in organic chemistry are characteristic of:
+W) alkanes X) aromatic compounds Y) alkenes Z) ketones
+ANSWER: Y) ALKENES
+BONUS
+10) CHEMISTRY Short Answer Calculate the heat energy, in Joules, released when 10 grams of a substance, which has the same specific heat as liquid water, cools from 100&amp;deg;C to 50&amp;deg;C:
+ANSWER: 2090 (ACCEPT: + or - 2000 to 2100 J)
+2002 Regional Science Bowl B Round 17 Page 5 TOSS-UP
+11) BIOLOGY Short Answer To what intermediate molecule of the citric acid cycle does succinate dehydrogenase oxidize succinate?
+ANSWER: FUMARATE
+BONUS
+11) BIOLOGY Multiple Choice The mean corpuscular volume of erythrocytes is obtained by which of the following:
+W) the hematocrit multiplied by ten and then divided by the red cell count in millions per microliter X) the red cell count per cc divided by the hematocrit Y) the red cell count per cc divided by 7 microns Z) the hemoglobin value divided by the hematocrit
+ANSWER: W) THE HEMATOCRIT MUTIPLIED BY TEN AND THEN DIVIDED BY THE RED CELL COUNT IN MILLIONS PER MICROLITER
+TOSS-UP
+12) ASTRONOMY Multiple Choice Crux, Ara, Reticulum, and Tucana are all best known as:
+W) craters on the moon X) canals on mars Y) constellations Z) maria on the moon
+ANSWER: Y) CONSTELLATIONS
+BONUS
+12) ASTRONOMY Short Answer What is the total magnifying power of a refracting telescope that has an objective lens focal length of 12 meters and an eyepiece focal length of 0.3 meters?
+ANSWER: 40X (ACCEPT: 40 TIMES OR 40)
+2002 Regional Science Bowl B Round 17 Page 6 TOSS-UP
+13) MATH Multiple Choice Which of the following eccentricities describes a hyperbola:
+W) e = 0 X) 0 &amp;lt; e &amp;lt; 1 Y) e = 1 Z) e &amp;gt; 1
+ANSWER: Z) e &amp;gt; 1
+BONUS
+MATH Short Answer Solve the following equation for y: y + (3y-9)/5 = 4 - (5y-12)/3
+ANSWER: y = 3
+TOSS-UP
+14) EARTH SCIENCE Multiple Choice If the Earth were nonrotating, global wind circulation would most likely resemble:
+W) the doldrums X) huge circulatory convection cells paralleling lines of latitude Y) huge circulatory convection cells moving from the equator to the poles Z) global circulation would cease
+ANSWER: Y) HUGE CIRCULATORY CONVECTION CELLS MOVING FROM THE EQUATOR TO THE POLES
+BONUS
+14) EARTH SCIENCE Short Answer In meteorology, what is the name for the horizontal wind velocity for which the Coriolis acceleration exactly balances the horizontal pressure force?
+ANSWER: GEOSTROPHIC WIND
+2002 Regional Science Bowl B Round 17 Page 7 TOSS-UP
+15) GENERAL SCIENCE Multiple Choice The carcinogenic effects of sunlight on skin are caused by light in which of the following wavelength ranges:
+W) 280-320 nanometers X) 320-360 nanometers Y) 400-450 nanometers Z) 1.0-1.5 micrometers
+ANSWER: W) 280-320 NANOMETERS
+BONUS
+15) GENERAL SCIENCE Short Answer Order the following 4 countries from the lowest to the highest in energy consumption per capita in 1999: Russia, China, Japan, Germany
+ANSWER: CHINA, GERMANY, JAPAN, RUSSIA
+TOSS-UP
+16) COMPUTER SCIENCE Multiple Choice All of these programming languages allow variables to pass by value EXCEPT:
+W) FORTRAN X) PASCAL Y) Java Z) Algol-60
+ANSWER: W) FORTRAN
+BONUS
+16) COMPUTER SCIENCE Short Answer What does the acronym MODEM stand for?
+ANSWER: MODULATOR-DEMODULATOR
+2002 Regional Science Bowl B Round 17 Page 8 TOSS-UP
+17) PHYSICS Multiple Choice Thomas Young's double slit experiments lent strong support in his time to which of the following:
+W) the particle nature of light X) that light could be polarized Y) the wave nature of light Z) the wave particle duality of light
+ANSWER: Y) THE WAVE NATURE OF LIGHT
+BONUS
+17) PHYSICS Short Answer If a string vibrates at a fundamental frequency of 120 hertz, what are the frequencies of the first and second overtones respectively:
+ANSWER: 240 AND 360
+TOSS-UP
+18) CHEMISTRY Multiple Choice What rule would be best used to predict the alcohol vapor pressure over 100 proof bourbon:
+W) Henry's Law X) Raoult's Law Y) Dalton's Law of Partial Pressures Z) Boyles Law
+ANSWER: X) RAOULT'S LAW
+BONUS
+18) CHEMISTRY Short Answer A mixture of gases with an average molecular weight of 30grams per mole is contained in a 480 liter tank. What is the mass of the gases, in grams, if the temperature of the gas is 300K and the pressure is 2 atmospheres:
+ANSWER: 1200 (ACCEPT: 1.2 x 10&lt;sup&gt;3&lt;/sup&gt; g)
+2002 Regional Science Bowl B Round 17 Page 9 TOSS-UP
+19) BIOLOGY Multiple Choice If a culture of cells from a hyperallergenic person was exposed to fluorescent labeled immunoglubulin E, which of the following cell types would most likely glow the most:
+W) PMN X) mast cell Y) eosinophile (pronounced: E-O-sin-O-fill) Z) macrophage
+ANSWER: X) MAST CELL
+BONUS
+19) BIOLOGY Short Answer Which one of the following 5 cells is NOT found in a typical angiosperm rhizome? parenchymal, collenchymal, meristematic, epidermal, guard cell
+ANSWER: GUARD CELL
+TOSS-UP
+20) MATH Multiple Choice Which of the following is TRUE about tests of significance:
+W) a type 1 error rejects the null hypothesis when it is true X) a type 1 error accepts the null hypothesis when it is true Y) a type 2 error rejects the null hypothesis when it is true Z) a type 2 has no relationship to the null hypothesis
+ANSWER: W) A TYPE 1 ERROR REJECTS THE NULL HYPOTHESIS WHEN IT IS TRUE
+BONUS
+20) MATH Short Answer Calculate the following indefinite integral: I = &amp;int; cos(2 x + 2) dx (read as: the integral of the cosine of the sum of 2x + 2, dx)
+ANSWER: (1/2) sin(2x+2) + C
+2002 Regional Science Bowl B Round 17 Page 10 TOSS-UP
+21) EARTH SCIENCE Multiple Choice Cape Dennison in Antarctica holds the world's record for the highest annual average wind speeds owing to:
+W) Chinook winds X) katabatic winds Y) Hadley cell circulation Z) Ekman spirals
+ANSWER: X) KATABATIC WINDS
+BONUS
+21) EARTH SCIENCE Short Answer Order the following four geological epochs from the youngest to the oldest: Pliocene, Holocene, Oligocene, Paleocene
+ANSWER: HOLOCENE, PLIOCENE, OLIGOCENE, PALEOCENE
+TOSS-UP
+22) GENERAL SCIENCE Multiple Choice Yellow fever is transmitted by what genus of mosquito:
+W) Anopheles (read as: ann-off-a-lees) X) Culex (reas as: CUE-lex) Y) Aedes Z) Culiseta (read as: cue-lee-see-ta)
+ANSWER: X) CULEX
+BONUS
+22) GENERAL SCIENCE Short Answer What is the least number of colors for any map on a sphere so that regions with common boundaries are distinguished by different colors?
+ANSWER: 4
+2002 Regional Science Bowl B Round 17 Page 11 TOSS-UP
+23) PHYSICS Short Answer Which ones, if any, of the following 5 elements is/are radioactive? sulfur-32, polonium-209, lithium-7, deuterium, francium-223
+ANSWER: POLONIUM-209 AND FRANCIUM-223
+BONUS
+23) PHYSICS Short Answer Order the following 4 substances from the one that will show the LEAST increase in temperature for each single calorie added to one gram of that substance to the one that will show the MOST: aluminum, iron, tungsten, water
+ANSWER: WATER, ALUMINUM, IRON, TUNGSTEN
+TOSS-UP
+24) CHEMISTRY Short Answer A monosaccharide unit containing a ketone functional group is to a ketose as a monosaccharide unit containing a glucose is to what?
+ANSWER: AN ALDOSE
+BONUS
+24) CHEMISTRY Short Answer What is the osmotic pressure, in atmospheres, of a 1.0 molar solution of sodium chloride in water at 300K?
+ANSWER: 24.6 (ACCEPT: 24 TO 25 ATM)
+2002 Regional Science Bowl B Round 17 Page 12 TOSS-UP
+25) BIOLOGY Multiple Choice Which of the following responses does indoleacetic acid NOT usually produce in plants:
+W) vascular cell differentiation X) fruit maturation Y) cell elongation Z) flowering
+ANSWER: Z) FLOWERING
+BONUS
+25) BIOLOGY Short Answer What is the name for the strap-like muscle involved with head movements and abbreviated as the SCM?
+ANSWER: STERNOCLEIDOMASTOID MUSCLE
+2002 Regional Science Bowl B Round 17 Page 13

@@ -1,0 +1,173 @@
+TOSS-UP
+1) PHYSICS Multiple Choice In Galileo's experiments on balls rolling down an inclined plane, he had originally hypothesized:
+W) that all objects have inertia X) that all balls underwent uniform acceleration Y) the 2&lt;sup&gt;nd&lt;/sup&gt; law of motion Z) the 3&lt;sup&gt;rd&lt;/sup&gt; law of motion
+ANSWER: X) THAT ALL BALLS UNDERWENT UNIFORM ACCELERATION
+BONUS
+1) PHYSICS Short Answer What is the centripetal force, in Newtons, that is required to cause a 10 kilogram body to move at 3 meters per second in uniform circular motion with a radius of 10 meters?
+ANSWER: 9 NEWTONS
+TOSS-UP
+2) BIOLOGY Short Answer Give the genus and species name for the first bacterium shown to be the cause of a disease:
+ANSWER: BACILLUS ANTHRACIS
+BONUS
+2) BIOLOGY Short Answer In the late 1800's, who was the first person to isolate and grow numerous pathogenic Monerans?
+ANSWER: ROBERT KOCH
+2002 Regional Science Bowl B Round 3 Page 1 TOSS-UP
+3) CHEMISTRY Multiple Choice Which of the following groups of elements have the strongest or highest electron affinities, corresponding to the largest release of energy:
+W) group 1A X) group 2A Y) group 7A Z) group 8A
+ANSWER: Y) GROUP 7A
+BONUS
+3) CHEMISTRY Short Answer What element is a corrosive, greenish-yellow gas, is widely used in the manufacturing of polymers such as Teflon, and is the 13&lt;sup&gt;th&lt;/sup&gt; most abundant element in the Earth's crust?
+ANSWER: FLUORINE (ACCEPT: F)
+TOSS-UP
+4) ASTRONOMY Short Answer Containing roughly ten times more gas than Earth's, why does Titan's atmosphere extend some ten times farther into space than does our own?
+ANSWER: WEAKER GRAVITATIONAL PULL (ACCEPT: SMALLER MASS)
+BONUS
+4) ASTRONOMY Short Answer What is the most common term for the imaginary band on either side of the ecliptic where the path of the Sun, Moon, and planets are generally found?
+ANSWER: THE ZODIAC
+2002 Regional Science Bowl B Round 3 Page 2 TOSS-UP
+5) MATH Short Answer On a blueprint, if three-quarters of an inch represents 1 foot, then 2 inches will represent what distance, in feet, expressed as the most reduced compound fraction?
+ANSWER: 2 2/3 (ACCEPT: 2.66)
+BONUS
+5) MATH Short Answer How old is Michelle if 4 years ago she was one-half the age she will be 10 years from now?
+ANSWER: 18
+TOSS-UP
+6) EARTH SCIENCE Multiple Choice Groundwater that is rich in calcium and magnesium bicarbonates is termed:
+W) hard water X) soft water Y) well water Z) recharge water
+ANSWER: W) HARD WATER
+BONUS
+6) EARTH SCIENCE Multiple Choice Which of the following descriptions is NOT true of eskers:
+W) they were formed above glaciers by the widening of crevasses X) they are low, steep-sided ridges of sand and gravel Y) deposits were laid down by running water Z) their deposits are roughly sorted and bedded
+ANSWER: W) THEY WERE FORMED ABOVE GLACIERS BY THE WIDENING OF CREVASSES
+2002 Regional Science Bowl B Round 3 Page 3 TOSS-UP
+7) GENERAL SCIENCE Short Answer What major biome occurs only in the Northern Hemisphere and is composed of both Low Arctic and High Arctic areas?
+ANSWER: TUNDRA
+BONUS
+7) GENERAL SCIENCE Short Answer Give the respective SI multipliers for the following prefixes: exa; peta; and giga
+ANSWER: 10&lt;sup&gt;18&lt;/sup&gt;; 10&lt;sup&gt;15&lt;/sup&gt;; 10&lt;sup&gt;9&lt;/sup&gt;
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice A Java stock ticker that runs within the user's Web browser is an example of:
+W) an applet X) liteware Y) firmware Z) a taskbar
+ANSWER: W) AN APPLET
+BONUS
+8) COMPUTER SCIENCE Multiple Choice What is the octal equivalent of the binary number 1100 (read as: one, one, zero, zero)?
+W) 11 X) 14 Y) 2 Z) 4
+ANSWER: X) 14
+2002 Regional Science Bowl B Round 3 Page 4 TOSS-UP
+9) PHYSICS Multiple Choice Which of the following moves in the form of a longitudinal compression wave:
+W) ocean wave X) sound wave Y) light wave Z) electromagnetic wave
+ANSWER: X) SOUND WAVE
+BONUS
+9) PHYSICS Short Answer Assuming g = 9.8 m/sec2, what is the weight on Earth, in Newtons, of a 70 kilogram person?
+ANSWER: 686 NEWTONS
+TOSS-UP
+10) BIOLOGY Multiple Choice Which of the following Orders does NOT belong to the Class Insecta:
+W) Lepidoptera X) Diptera Y) Isoptera Z) Chelicerata
+ANSWER: Z) CHELICERATA
+BONUS
+10) BIOLOGY Multiple Choice Which of the following diseases is NOT caused by bacteria:
+W) strep throat X) toxic shock syndrome Y) scarlet fever Z) influenza
+ANSWER: Z) INFLUENZA
+2002 Regional Science Bowl B Round 3 Page 5 TOSS-UP
+11) CHEMISTRY Short Answer What is the pH of a solution at 25&amp;deg;C that has a hydrogen ion concentration of 0.001?
+ANSWER: 3
+BONUS
+11) CHEMISTRY Short Answer Which 3 Noble gases undergo no chemical reactions and form no known compounds?
+ANSWER: HELIUM, NEON, ARGON (ACCEPT: He, Ne, Ar)
+TOSS-UP
+12) ASTRONOMY Short Answer What gas makes up most of the atmosphere of Mars?
+ANSWER: CARBON DIOXIDE (ACCEPT: CO&lt;sub&gt;2&lt;/sub&gt;)
+BONUS
+12) ASTRONOMY Short Answer Longitude is to right ascension as latitude is to:
+ANSWER: DECLINATION
+2002 Regional Science Bowl B Round 3 Page 6 TOSS-UP
+13) MATH Short Answer In order, what are the prime numbers between 30 and 50?
+ANSWER: 31, 37, 41, 43, 47
+BONUS
+13) MATH Short Answer Find the prime factorization of 1050:
+ANSWER: 2x3x5x5x7 (ACCEPT: 2x3x5&lt;sup&gt;2&lt;/sup&gt;x7)
+TOSS-UP
+14) EARTH SCIENCE Short Answer What is the term for wave activity between the line of breakers and the shore, produced as an ocean wave steepens and falls forward?
+ANSWER: SURF
+BONUS
+14) EARTH SCIENCE Multiple Choice Distinctly and finely stratified layers of silt and clay deposited in lakes of glacial origin are known as:
+W) varves X) moraines Y) drumlins Z) eskers
+ANSWER: W) VARVES
+2002 Regional Science Bowl B Round 3 Page 7 TOSS-UP
+15) GENERAL SCIENCE Multiple Choice One knot is approximately equal to how many kilometers per hour?
+W) 0.6 X) 1.9 Y) 1.65 Z) 1.0
+ANSWER: X) 1.9
+BONUS
+15) GENERAL SCIENCE Short Answer What term describes the ability of a microscope to remain very nearly in focus when switching from one objective lens to another:
+ANSWER: PARFOCAL (ACCEPT: PARFOCALITY)
+TOSS-UP
+16) COMPUTER SCIENCE Multiple Choice The process of converting 3D information to a 2D screen image is called:
+W) texturing X) rendering Y) rastering Z) modeling
+ANSWER: X) RENDERING
+BONUS
+16) COMPUTER SCIENCE Multiple Choice What is the minimum amount of RAM required for the proper execution of Windows 2000 Professional:
+W) 80 MB X) 64 MB Y) 40 MB Z) 32 MB
+ANSWER: X) 64 MB
+2002 Regional Science Bowl B Round 3 Page 8 TOSS-UP
+17) PHYSICS Multiple Choice Ultrasonic sound frequencies are typically considered to be:
+W) above 20,000 kilohertz X) below 20,000 kilohertz Y) above 20,000 Hertz Z) below 20,000 Hertz
+ANSWER: Y) ABOVE 20,000 HERTZ
+BONUS
+17) PHYSICS Multiple Choice Which of the following will deposit the greatest amount of energy per unit path in human tissue:
+W) gamma ray X) x-ray Y) beta particles Z) alpha particles
+ANSWER: Z) ALPHA PARTICLES
+TOSS-UP
+18) BIOLOGY Short Answer One species benefits while the other is unaffected is most specifically an example of what symbiotic relationship?
+ANSWER: COMMENSALISM
+BONUS
+18) BIOLOGY Short Answer What is the term for the epidermal rupture in cork cells, common to the birch tree, that allows air to diffuse trough the bark?
+ANSWER: LENTICEL
+2002 Regional Science Bowl B Round 3 Page 9 TOSS-UP
+19) CHEMISTRY Short Answer What does the acronym MSDS, the safety information sheet for a particular chemical substance, stand for?
+ANSWER: MATERIAL SAFETY DATA SHEET
+BONUS
+19) CHEMISTRY Multiple Choice If an atom X, which has an electronegativity of 3.5, bonds with atom Y, which has an electronegativity of 0.9, what type of bond is most likely prevalent:
+W) ionic X) polar covalent Y) non-polar covalent Z) neutral
+ANSWER: W) IONIC
+TOSS-UP
+20) ASTRONOMY Short Answer What is the common astronomical term that derives its name from the Latin word meaning ocean or "seas" that is used to label the darker and smoother parts of the moon's surface:
+ANSWER: MARIA
+BONUS
+20) ASTRONOMY Short Answer What celestial phenomenon most directly causes a comet's tail to point away from the Sun:
+ANSWER: THE SOLAR WIND
+2002 Regional Science Bowl B Round 3 Page 10 TOSS-UP
+21) EARTH SCIENCE Multiple Choice The Alpine-Himalayan mountain chain formed by:
+W) rifting X) transform faulting Y) continental collision Z) continent to ocean subduction
+ANSWER: Y) CONTINENTAL COLLISION
+BONUS
+21) EARTH SCIENCE Multiple Choice Which of the following minerals is classified as a native element:
+W) gypsum X) quartz Y) graphite Z) clay
+ANSWER: Y) GRAPHITE
+TOSS-UP
+22) GENERAL SCIENCE Short Answer In Freudian theory, libidinal drives reside in what division of the personality?
+ANSWER: ID
+BONUS
+22) GENERAL SCIENCE Multiple Choice A typical 6-ounce brewed cup of tea contains about how many milligrams of caffeine:
+W) 30 X) 70 Y) 110 Z) 150
+ANSWER: X) 70
+2002 Regional Science Bowl B Round 3 Page 11 TOSS-UP
+23) PHYSICS Multiple Choice Pitch in an airplane is typically controlled by which of the following:
+W) horizontal stabilizer X) aileron Y) vertical stabilizer Z) swing arm
+ANSWER: W) HORIZONTAL STABILIZER
+BONUS
+23) PHYSICS Short Answer What is the wavelength, in meters, of a sound wave that has a frequency of 3,500 hertz and a speed in a certain medium of 350 meters per second?
+ANSWER: 0.1 METERS
+TOSS-UP
+24) BIOLOGY Short Answer What is the anatomical term for movement of a bone that results in a decrease in the angle of a joint, bringing bones together?
+ANSWER: FLEXION
+BONUS
+24) BIOLOGY Multiple Choice Which of the following trees does NOT have simple, toothed leaves:
+W) Quaking Aspen X) Eastern Cottonwood Y) White Birch Z) Yellow Buckeye
+ANSWER: Z) YELLOW BUCKEYE
+2002 Regional Science Bowl B Round 3 Page 12 TOSS-UP
+25) CHEMISTRY Multiple Choice The concentration of a solution expressed in the number of gram-equivalent weights of solute per liter of solution is called:
+W) normality X) molality Y) equivalent weight Z) molarity
+ANSWER: W) NORMALITY
+BONUS
+25) CHEMISTRY Short Answer In the chemical reaction that expands a typical car air bag, when sodium azide is broken down, what main toxic product is released in the first reaction?
+ANSWER: SODIUM (ACCEPT: SODIUM HYDROXIDE)
+2002 Regional Science Bowl B Round 3 Page 13

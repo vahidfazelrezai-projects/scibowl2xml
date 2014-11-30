@@ -1,0 +1,174 @@
+TOSS-UP
+1) CHEMISTRY Multiple Choice The so-called d-block elements of the periodic table constitute the:
+W) lanthanide and actinide series X) transition metals Y) group 3A to 8A elements Z) group 1A and 2A elements
+ANSWER: X) TRANSITION METALS
+BONUS
+1) CHEMISTRY Short Answer In any order, give the full names of any 4 metalloids:
+ANSWER: BORON; SILICON; GERMANIUM; ARSENIC; ANTIMONY; TELLURIUM; ASTATINE
+TOSS-UP
+2) PHYSICS Short Answer What is the most common term used to describe the velocity equal to the average velocity in the limit that the measurement time period approaches zero?
+ANSWER: INSTANTANEOUS VELOCITY
+BONUS
+2) PHYSICS Short Answer How long will it take a squirrel to run straight down a tree trunk 18 meters long if it accelerates from a stop at 4 meters/sec2?
+ANSWER: 3 SECONDS
+2002 Regional Science Bowl B Round 9 Page 1 TOSS-UP
+3) BIOLOGY Short Answer What gland in humans is the primary producer of melatonin?
+ANSWER: PINEAL GLAND
+BONUS
+3) BIOLOGY Multiple Choice An example of negative feedback control is when:
+W) thyroid hormone interrupts the stimulation of the thyroid by TSH X) the initial enzyme of a metabolic pathway inhibits a later reaction Y) FSH inhibits progesterone production by the corpus luteum Z) the initial product of a metabolic pathway inhibits the next reaction
+ANSWER: W) THYROID HORMONE INTERRUPTS THE STIMULATION OF THE THYROID BY TSH
+TOSS-UP
+4) ASTRONOMY Short Answer According to Kepler's second Law of planetary motion, in which season in North America does the Earth currently move the fastest in its orbit about the Sun?
+ANSWER: WINTER
+BONUS
+4) ASTRONOMY Short Answer What is the brightest star in the Northern sky?
+ANSWER: ARCTURUS (ACCEPT: ALPHA BOOTES)
+2002 Regional Science Bowl B Round 9 Page 2 TOSS-UP
+5) MATH Short Answer What is the most common name for the theorem proved by Gauss which states that "every polynomial of degree n&amp;ge;1 with real or complex coefficients has n real or complex roots"?
+ANSWER: THE FUNDAMENTAL THEOREM OF ALGEBRA
+BONUS
+5) MATH Short Answer Simplify the following fractional radicand to an expression that has the lowest whole number radicand: &amp;radic;(2/3)
+ANSWER: (1/3) &amp;radic;6
+TOSS-UP
+6) EARTH SCIENCE Short Answer Which body wave can travel at the greatest velocity of all the seismic waves?
+ANSWER: P-WAVES (ACCEPT: PRIMARY WAVE OR COMPRESSION/EXPANSION WAVES)
+BONUS
+6) EARTH SCIENCE Multiple Choice The earth's outer core is interpreted to be liquid because:
+W) S-waves don't travel through liquid X) S-waves are faster than P-waves Y) S-waves don't travel through gases Z) P-waves don't travel through liquids
+ANSWER: W) S-WAVES DON'T TRAVEL THROUGH LIQUID
+2002 Regional Science Bowl B Round 9 Page 3 TOSS-UP
+7) GENERAL SCIENCE Multiple Choice If you need to measure 100 milliliters in an Erlenmeyer flask that has a stated volume of 100 ml but has no calibration lines, typically the stated volume will approximately fill to:
+W) the top rim of the flask X) where the neck attaches to the flask Y) 1 centimeter below the where the neck attaches to the flask Z) there is no safe way to approximate 100 ml in such a flask
+ANSWER: X) WHERE THE NECK ATTACHES TO THE FLASK
+BONUS
+7) GENERAL SCIENCE Short Answer The ratio of total leaf surface area to the total ground surface area covered by the leaves is know as what?
+ANSWER: LEAF AREA INDEX (ACCEPT: LAI)
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice Which of the following best describes a router:
+W) segments an existing network X) provides the network address for the PC Y) manages traffic on the network by filtering data Z) controls the flow of data between 2 or more separate networks
+ANSWER: Z) CONTROLS THE FLOW OF DATA BETWEEN 2 OR MORE SEPARATE NETWORKS
+BONUS
+8) COMPUTER SCIENCE Short Answer A network technology based on transferring data in cells or packets, what does the acronym ATM stand for?
+ANSWER: ASYNCHRONOUS TRANSFER MODE (DO NOT ACCEPT: AUTOMATED TELLER MACHINE)
+2002 Regional Science Bowl B Round 9 Page 4 TOSS-UP
+9) CHEMISTRY Multiple Choice One standard atmosphere of pressure is equal to how many Pascals:
+W) 760 X) 1,325 Y) 10,325 Z) 101,325
+ANSWER: Z) 101,325
+BONUS
+9) CHEMISTRY Short Answer In order of increasing energy, number and designate all the subshells in the 4&lt;sup&gt;th&lt;/sup&gt; electron shell:
+ANSWER: 4s, 4p, 4d, 4f (ACCEPT: s, p, d, f)
+TOSS-UP
+10) PHYSICS Multiple Choice Rutherford discovered that x-rays were produced by:
+W) uranium when bombarded with slow neutrons X) certain binary stars Y) particles emitted by a cathode, which then struck an anode Z) the sun
+ANSWER: Y) PARTICLES EMITTED BY A CATHODE, WHICH THEN STRUCK AN ANODE
+BONUS
+10) PHYSICS Short Answer Which 3 of the following 4 are vector quantities: velocity, acceleration, speed, magnetic field
+ANSWER: VELOCITY, ACCELERATION, MAGNETIC FIELD
+2002 Regional Science Bowl B Round 9 Page 5 TOSS-UP
+11) BIOLOGY Multiple Choice Which of the following is NOT a Rickettsial disease:
+W) Q fever X) Scrub Typhus Y) Rocky Mountain Spotted Fever Z) Relapsing fever
+ANSWER: Z) RELAPSING FEVER
+BONUS
+11) BIOLOGY Multiple Choice Which of the following vegetations is NOT properly matched with its location:
+W) boreal coniferous forest and Midwestern Canada X) rain forest and the Olympic National Forest Y) Saguaro desert and the Southwestern US Z) Taiga and the Northeastern US
+ANSWER: Z) TAIGA AND THE NORTHEASTERN US
+TOSS-UP
+12) ASTRONOMY Short Answer Which planet is 14.5 times the Earth's mass, has a rotational rate of 17.2 hours, and a year length of 84 Earth years?
+ANSWER: URANUS
+BONUS
+12) ASTRONOMY Short Answer What are generally considered the most common and most primitive type of meteorites?
+ANSWER: CHONDRITES
+2002 Regional Science Bowl B Round 9 Page 6 TOSS-UP
+13) MATH Short Answer Simplify the ratio of the following factorial: 6!/4! (read as: 4 factorial divided by 6 factorial)
+ANSWER: 1/30 (ACCEPT: 0.033)
+BONUS
+13) MATH Short Answer A recipe calls for flour, sugar and butter to be mixed in a ratio of 7 to 5 to 2, respectively. Assuming there is enough sugar and butter to use all the flour and 20 pounds of flour is available, how many pounds of the mixture can be made?
+ANSWER: 40
+TOSS-UP
+14) EARTH SCIENCE Multiple Choice Which one of the following was NOT formed by the deposition of sediment by a glacial stream:
+W) outwash plain X) kame Y) moraine Z) esker
+ANSWER: Y) MORAINE
+BONUS
+14) EARTH SCIENCE Multiple Choice Closely spaced isobars on a weather map most directly indicate which of the following weather-related events:
+W) calm conditions X) windy conditions Y) a gentle pressure gradient Z) torrential rainfall
+ANSWER: X) WINDY CONDITIONS
+2002 Regional Science Bowl B Round 9 Page 7 TOSS-UP
+15) GENERAL SCIENCE Multiple Choice Most plants absorb nitrogen from the soil through their roots in which of the following forms:
+W) dinitrogen X) ammonia Y) ammonium Z) nitrate
+ANSWER: Z) NITRATE
+BONUS
+15) GENERAL SCIENCE Multiple Choice Which of the following is NOT a fat-soluble vitamin:
+W) vitamin K X) vitamin A Y) vitamin D Z) biotin
+ANSWER: Z) BIOTIN
+TOSS-UP
+16) COMPUTER SCIENCE Short Answer If a computer has a 64-bit bus, how many bytes of information can travel across it at the same time?
+ANSWER: 8
+BONUS
+16) COMPUTER SCIENCE Multiple Choice What type of chip is commonly used to store the BIOS in a PC:
+W) ROM X) DAT Y) DOS Z) FAT
+ANSWER: W) ROM
+2002 Regional Science Bowl B Round 9 Page 8 TOSS-UP
+17) CHEMISTRY Multiple Choice An amine is a class of compounds that contains a:
+W) sulfur and hydrogen group X) nitrogen and oxygen group Y) nitrogen and hydrogen group Z) carbon and sulfur group
+ANSWER: Y) NITROGEN AND HYDROGEN GROUP
+BONUS
+17) CHEMISTRY Short Answer An element with an electron configuration of 2-8-8-2 is found in what Period and main Group number on the Periodic Chart?
+ANSWER: PERIOD 4 AND GROUP 2 (ACCEPT: PERIOD 4 AND GROUP 2A)
+TOSS-UP
+18) PHYSICS Short Answer In 1885, Johann Balmer derived the formula for the 4 spectral line of what element?
+ANSWER: HYDROGEN
+BONUS
+18) PHYSICS Short Answer Which lower case letter is most typically used to denote Planck's constant?
+ANSWER: h
+2002 Regional Science Bowl B Round 9 Page 9 TOSS-UP
+19) BIOLOGY Multiple Choice Which of the following is a member of the Hirudinea: (pronounced: high-rue-DIN-E-A)
+W) earthworm X) centipede Y) leech Z) chelicerae (read as: chell-IS-err-aye)
+ANSWER: Y) LEECH
+BONUS
+19) BIOLOGY Short Answer When successive beats of the heart result in an increased end- diastolic volume leading to optimal sarcomere length for strength of contraction, it is most commonly referred to by the name of what law:
+ANSWER: THE FRANK-STARLING LAW
+TOSS-UP
+20) ASTRONOMY Multiple Choice Which of the following was NOT known to be a planet until 1781 AD:
+W) Saturn X) Venus Y) Mercury Z) Uranus
+ANSWER: Z) URANUS
+BONUS
+20) ASTRONOMY Short Answer What law states that the total amount of energy radiated per unit time from the surface of a body is related to the fourth power of its temperature?
+ANSWER: STEFAN-BOLTZMANN LAW (ACCEPT: STEFAN'S LAW)
+2002 Regional Science Bowl B Round 9 Page 10 TOSS-UP
+21) MATH Short Answer A statistician who computes the standard deviation of a set of sample means is computing what statistical quantity?
+ANSWER: STANDARD ERROR OF THE MEAN (ACCEPT: STANDARD ERROR)
+BONUS
+21) MATH Short Answer Name 2 consecutive ODD integers where 5 times the second number minus 6 times the first number equals -55:
+ANSWER: -65 AND -67 (must be in order)
+TOSS-UP
+22) GENERAL SCIENCE Multiple Choice Recent evidence shows which to be the best advice for a person suffering from recurrent kidney stones:
+W) decrease their intake of calcium-rich foods X) increase their intake of calcium-rich foods Y) increase their intake of oxalate-rich foods Z) decrease their intake of magnesium-rich foods
+ANSWER: X) INCREASE THEIR INTAKE OF CALCIUM-RICH FOODS
+BONUS
+22) GENERAL SCIENCE Multiple Choice A lens defect resulting from its inability to bring all wavelengths of light into the same plane of focus is called:
+W) barrel distortion X) astigmatism Y) chromatic aberration Z) spherical aberration
+ANSWER: Y) CHROMATIC ABERRATION
+2002 Regional Science Bowl B Round 9 Page 11 TOSS-UP
+23) CHEMISTRY Multiple Choice Which metal acts at the anode in mercury batteries that are commonly found in cameras and watches:
+W) mercury X) mercury (II) oxide Y) zinc Z) lithium
+ANSWER: Y) ZINC
+BONUS
+23) CHEMISTRY Short Answer In the periodic table, what are elements 58 through 71 classified as?
+ANSWER: LANTHANIDES (ACCEPT: LANTHANIDE SERIES OR INNER TRANSITION METALS OR RARE EARTH ELEMENTS)
+TOSS-UP
+24) PHYSICS Short Answer How far, in kilometers, will the runner travel in five hours on a straight path if her average speed is 9 kilometers per hour?
+ANSWER: 45 KM
+BONUS
+24) PHYSICS Multiple Choice Which of the following forms of radioactive decay does NOT alter the atomic number of an element:
+W) alpha X) beta minus Y) beta plus Z) gamma
+ANSWER: Z) GAMMA
+2002 Regional Science Bowl B Round 9 Page 12 TOSS-UP
+25) BIOLOGY Multiple Choice Which of the following genera of plants contains a species that traps and digests insects:
+W) Ulmus X) Nepenthes (pronounced: neh-PEN-thes) Y) Lupinus (pronounced : lew-PIE-nus) Z) Psilotum (pronounced : sill-O-tum)
+ANSWER: X) NEPENTHES
+BONUS
+25) BIOLOGY Multiple Choice Thallassemia (pronounced: thal-ah-SEE-me-ah) and Marfan Syndrome are both which of the following types of diseases:
+W) virus-related diseases X) bacteria-related diseases Y) toxic-exposure diseases Z) inherited disorders
+ANSWER: Z) INHERITED DISORDERS
+2002 Regional Science Bowl B Round 9 Page 13

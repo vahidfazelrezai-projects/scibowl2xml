@@ -1,0 +1,242 @@
+TOSS-UP
+1) BIOLOGY Short Answer What is the common name for the 27-carbon lipid whose synthesis is in part regulated by HMG CoA (read as: H, M, G, koh, A) reductase and is the basic starting point for estrogen synthesis?
+ANSWER: CHOLESTEROL
+BONUS
+1) BIOLOGY Multiple Choice Which of the following is NOT true regarding ribosomes:
+W) they are about 20 nanometers in diameter
+X) eukaryotic ribosomes are slightly larger than prokaryotic ribosomes 
+Y) mitochondrial ribosomes have 40S (read as: forty S) small subunits 
+Z) they are found in chloroplasts
+ANSWER: Y) MITOCHONDRIAL RIBOSOMES HAVE 40S SMALL SUBUNITS
+TOSS-UP
+2) CHEMISTRY Multiple Choice Which of the following has a melting point of 185&amp;deg;C and readily dissolves in water at room temperature, but is NOT an electrolyte:
+W) NaCl 
+X) decane 
+Y) methane 
+Z) sucrose
+ANSWER: Z) SUCROSE
+BONUS
+2) CHEMISTRY Short Answer Give the systematic chemical name for the following ionic compound: Cr&lt;sub&gt;2&lt;/sub&gt;(SeO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;
+ANSWER: CHROMIUM(III) SELENATE
+TOSS-UP
+3) PHYSICS Multiple Choice Which of the following BEST describes the Balmer series:
+W) a series of quantum numbers indicating certain energy levels
+X) hydrogen atom spectral line emission
+Y) a sequence of elements that are produced chronologically in supernovae 
+Z) the energy spectrum of the early universe
+ANSWER: X) HYDROGEN ATOM SPECTRAL LINE EMISSION
+BONUS
+3) PHYSICS Short Answer According to the Standard Model of Particle Physics, through what force would the top quark decay?
+ANSWER: WEAK FORCE (ACCEPT: WEAK or WEAK INTERACTION)
+TOSS-UP
+4) MATH Short Answer Express 600&amp;deg; in radians as a reduced fraction in terms of &amp;pi;:
+ANSWER: 10&amp;pi;/3
+BONUS
+4) MATH Short Answer Giving your answers in terms of &amp;pi; and in inches squared, find the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:
+ANSWER: 96&amp;pi;
+TOSS-UP
+5) EARTH SCIENCE Multiple Choice Which of the following is the single most important factor that generally sets a northern limit to tree growth, such as in the areas of transition between taiga and tundra in Alaska:
+W) high-winter winds
+X) lack of summer warmth 
+Y) lack of spring moisture 
+Z) lack of soil nutrients
+ANSWER: X) LACK OF SUMMER WARMTH
+BONUS
+5) EARTH SCIENCE Multiple Choice Which of the following is NOT true of an El Nino:
+W) when an El Nino is present, fish are less abundant off the west coast of South America
+X) El Ninos typically come along every 4 to 5 years
+Y) during a peak El Nino, strong high pressure will be present in the eastern Pacific with lower pressure to the west
+Z) El Nino affects global weather patterns
+ANSWER: Y) DURING A PEAK EL NINO, STRONG HIGH PRESSURE WILL BE PRESENT IN THE EASTERN PACIFIC WITH LOWER PRESSURE TO THE WEST
+TOSS-UP
+6) GENERAL SCIENCE Short Answer Pitchblende is one of the main ores of what element? 
+ANSWER: URANIUM
+BONUS
+6) GENERAL SCIENCE Short Answer Order the following 3 temperature values from the COOLEST to the WARMEST: 32&amp;deg;C; 85&amp;deg;F; 310 K
+ANSWER: 85&amp;deg;F; 32&amp;deg;C; 310 K
+TOSS-UP
+7) ASTRONOMY Multiple Choice The BEST explanation of why population I (read as: one) stars have a higher proportion of elements heavier than helium than population II ( read as: two) stars, is because Population I stars are:
+W) younger than population II stars
+X) older than population II stars
+Y) usually closer to planetary nebula than population II stars 
+Z) often found near H-I (read as: H, one) regions
+ANSWER: W) YOUNGER THAN POPULATION II STARS
+BONUS
+7) ASTRONOMY Short Answer How many sidereal minutes are in 7.5 sidereal hours? 
+ANSWER: 450
+TOSS-UP
+8) BIOLOGY Multiple Choice Which of the following is NOT true of globular proteins in mammals:
+W) most are soluble in water
+X) some serve as transport molecules in the plasma
+Y) plasma enzymes typically have an optimal operating pH of about 6.8 to 7.0 
+Z) most protein hormones are globular
+ANSWER: Y) PLASMA ENZYMES TYPICALLY HAVE AN OPTIMAL OPERATING PH OF ABOUT 6.8 TO 7.0
+BONUS
+8) BIOLOGY Short Answer During photorespiration, the plant enzyme RuBisCO (read as: rue- BIS-ko) will bind what molecular substance rather than carbon dioxide?
+ANSWER: OXYGEN (ACCEPT: O&lt;sub&gt;2&lt;/sub&gt;)
+TOSS-UP
+9) CHEMISTRY Multiple Choice Which of the following is a substance whose molecular and empirical formulas are NOT the same:
+W) benzene
+X) water
+Y) ammonia
+Z) sulfur dioxide
+ANSWER: W) BENZENE
+BONUS
+9) CHEMISTRY Multiple Choice Which of the following is a molecule with a square pyramidal molecular geometry around its central atom:
+W) PCl&lt;sub&gt;5&lt;/sub&gt;
+X) ClF&lt;sub&gt;5&lt;/sub&gt;
+Y) XeF&lt;sub&gt;4&lt;/sub&gt;
+Z) SF&lt;sub&gt;6&lt;/sub&gt;
+ANSWER: X) ClF&lt;sub&gt;5&lt;/sub&gt;
+TOSS-UP
+10) PHYSICS Multiple Choice Which of the following has the lowest refractive index at STP:
+W) diamond
+X) water
+Y) dry air
+Z) a perfect vacuum
+ANSWER: Z) A PERFECT VACUUM
+BONUS
+10) PHYSICS Short Answer Rounded to the nearest hundred joules, how much work is done in pulling a sled across a pond for 3 meters with 100 newtons of force, with a rope that makes a 45&amp;deg; angle with the pond?
+ANSWER: 200
+TOSS-UP
+11) MATH Short Answer Find the center of the circle given by the following equation: x&lt;sup&gt;2&lt;/sup&gt;+y&lt;sup&gt;2&lt;/sup&gt;+4x+16y+3=0
+ANSWER: (–2, –8)
+BONUS
+11) MATH Short Answer What are the coordinates of the vertex in the graph of the following equation: y=4x&lt;sup&gt;2&lt;/sup&gt;+8x–5
+ANSWER: (–1, –9)
+TOSS-UP
+12) EARTH SCIENCE Multiple Choice Which of the following is a fine-grained silica-rich sedimentary rock that is made primarily of microcrystalline quartz:
+W) shale
+X) potash 
+Y) dolostone 
+Z) chert
+ANSWER: Z) CHERT
+BONUS
+12) EARTH SCIENCE Multiple Choice Which of the following is a foliated metamorphic rock composed of very fine-grained mica:
+W) marble 
+X) phyllite 
+Y) quartzite 
+Z) schist
+ANSWER: X) PHYLLITE
+TOSS-UP
+13) GENERAL SCIENCE Multiple Choice The largest deposits of diatomite, or diatomaceous earth, are typically found in which of the following regions of the U.S.:
+W) western 
+X) eastern 
+Y) midwest 
+Z) southern
+ANSWER: W) WESTERN
+BONUS
+13) GENERAL SCIENCE Multiple Choice Diatomite, or diatomaceous earth, is readily available in the U.S. and is used primarily for which of the following functions:
+W) soil improvement 
+X) crushed stone
+Y) filtering agent
+Z) lubricant
+ANSWER: Y) FILTERING AGENT
+TOSS-UP
+14) ASTRONOMY Multiple Choice Which of the following is closest to the range for the Balmer series:
+W) microwave
+X) infrared through UV 
+Y) UV to soft x-ray
+Z) visible light to UV
+ANSWER: Z) VISIBLE LIGHT TO UV
+BONUS
+14) ASTRONOMY Short Answer Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life?
+ANSWER: LOWER LEFT
+TOSS-UP
+15) BIOLOGY Multiple Choice Which of the following is most directly responsible for the colloid osmotic pressure in humans that acts to retain fluid in the vascular system:
+W) albumin
+X) sodium ions 
+Y) calcium ions 
+Z) potassium ions
+ANSWER: W) ALBUMIN
+BONUS
+15) BIOLOGY Multiple Choice Which of the following is NOT true of the most common form of DNA:
+W) it is a right-handed helix
+X) it has 3.4 nanometers between each successive nucleotide base of the same strand 
+Y) the strands are considered anti-parallel
+Z) each strand has a 3-prime phosphate and a 5-prime hydroxyl at opposite ends
+ANSWER: Z) EACH STRAND HAS A 3-PRIME PHOSPHATE AND A 5-PRIME HYDROXYL AT OPPOSITE ENDS
+TOSS-UP
+16) CHEMISTRY Multiple Choice An organic compound with the formula C&lt;sup&gt;6&lt;/sup&gt;H&lt;sup&gt;14&lt;/sup&gt; is an:
+W) alkane 
+X) alkene 
+Y) alkyne 
+Z) arene
+ANSWER: W) ALKANE
+BONUS
+16) CHEMISTRY Multiple Choice Which of the following gases has the highest effusion rate through a pinhole opening from one compartment to another and at room temperature:
+W) argon 
+X) CO2 
+Y) SO2 
+Z) helium
+ANSWER: Z) HELIUM
+TOSS-UP
+17) PHYSICS Multiple Choice Which of the following did J. J. Thompson use that primarily led him to conclude that electrons were basic particles of atoms and carried electric charge:
+W) a compass and batteries 
+X) a solenoid
+Y) cathode ray tubes
+Z) electromagnets
+ANSWER: Y) CATHODE RAY TUBES
+BONUS
+17) PHYSICS Short Answer Consider a satellite that is a uniform sphere rotating about its axis. What is its moment of inertia, giving your answer in scientific notation and in kilogram meters squared, if it has a mass of 10,000 kilograms and a diameter of 200 meters?
+ANSWER: 4 × 10&lt;sup&gt;7&lt;/sup&gt;
+TOSS-UP
+18) MATH Short Answer For the function f(x) = 1/x , what is f'(5) (read as: f prime of 5)?
+ANSWER: −1/25
+BONUS
+18) MATH Short Answer An object is launched straight up from the ground with an initial velocity of 176 feet per second. What is the height of the object above the ground, in feet, 2 seconds into the flight?
+ANSWER: 288
+TOSS-UP
+19) EARTH SCIENCE Multiple Choice Meteorologists think of wind as circulation patterns which are divided into 4 "scales of motion". A land-breeze circulation is grouped into which of the following categories:
+W) mesoscale 
+X) microscale 
+Y) medium scale 
+Z) synoptic
+ANSWER: X) MICROSCALE
+BONUS
+19) EARTH SCIENCE Multiple Choice If the air temperature is 0&amp;deg;F and the wind speed is 10 miles per hour, which of the following is closest to the wind chill, in degrees Fahrenheit:
+W) 10 
+X) 0 
+Y) –10 
+Z) –20
+ANSWER: Z) –20
+TOSS-UP
+20) GENERAL SCIENCE Multiple Choice Which of the following anthropogenic air pollutants is the major contributor to reduced visibility in most regions of the U.S., excluding fires and dust:
+W) elemental carbon 
+X) hydrogen sulfide 
+Y) sulfate particles 
+Z) lead
+ANSWER: Y) SULFATE PARTICLES
+BONUS
+20) GENERAL SCIENCE Short Answer What is the most common name for the edible vegetable oil that is derived from cultivars of rapeseed plants and is low in erucic acid?
+ANSWER: CANOLA OIL (ACCEPT: CANOLA)
+TOSS-UP
+21) ASTRONOMY Short Answer Giving your answer in decimal form, what would the “Z” value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength?
+ANSWER: 0.4
+BONUS
+21) ASTRONOMY Short Answer If a planet had an orbital period of 11.2 years, what is the length of its orbital semi-major axis, in astronomical units rounded to the nearest whole number?
+ANSWER: 5
+TOSS-UP
+22) BIOLOGY Short Answer Name all of the following 3 choices that are chemoautotrophs: Nitrosomonas (read as: nitro-so-MOAN-us) Paramecium; Volvox
+ANSWER: NITROSOMONAS
+BONUS
+22) BIOLOGY Short Answer From what vitamin is the electron carrier FAD (read as: F, A, D) derived?
+ANSWER: RIBOFLAVIN (ACCEPT: VITAMIN B2)
+TOSS-UP
+23) CHEMISTRY Short Answer Name all of the following 3 concentration units that are temperature-dependent: molal (read as: moe-LAHL); molarity; normality
+ANSWER: MOLARITY; NORMALITY
+BONUS
+23) CHEMISTRY Short Answer Calculate the enthalpy of vaporization, in kilojoules, of water at 25&amp;deg;C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:
+ANSWER: 44
+TOSS-UP
+24) PHYSICS Short Answer What was the most sensitive device Coulomb used to measure the electric forces between pith balls?
+ANSWER: TORSION BALANCE
+BONUS
+24) PHYSICS Short Answer Order the following 3 choices from the MOST penetrating through a thin sheet of cardboard to the LEAST: beta rays; alpha rays; x-rays
+ANSWER: X-RAYS; BETA RAYS; ALPHA RAYS
+TOSS-UP
+25) BIOLOGY Short Answer What is the most common name for the histone octamer used in the coiling and packing of DNA and regulation of gene expression?
+ANSWER: NUCLEOSOMES
+BONUS
+25) BIOLOGY Short Answer Name all of the following 4 organelles that are bounded by a double membrane: nucleus; mitochondrion; lysosome; chloroplast
+ANSWER: NUCLEUS; MITOCHONDRION; CHLOROPLAST (ACCEPT: ALL BUT LYSOSOME)

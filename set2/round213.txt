@@ -1,0 +1,174 @@
+TOSS-UP
+1) BIOLOGY Short Answer Which of the human plasma proteins plays the greatest role in osmoregulation?
+ANSWER: ALBUMIN
+BONUS
+1) BIOLOGY Short Answer Which 2 of the following 5 genera of organisms are not Monerans? &lt'br&gt; Leishmania, (read: LIE-shh-mania), Rickettsia, Neisseria, (read: NYE-sear-e-ah) Echinococcus, (read: E-kine-o-coccus), Klebsiella (read as: KLEB-see-ella)
+ANSWER: LEISHMANIA, ECHINOCOCCUS
+TOSS-UP
+2) CHEMISTRY Multiple Choice In the typical titration of a weak acid, such as 0.1 molar acetic acid, with a strong base, such as 0.1 molar sodium hydroxide, what is the best description of the characteristic titration curve:
+W) at the equivalence point, the pH is primarily controlled by the acetate ion X) at the equivalence point, the pH drops dramatically Y) the second equivalence point is primarily controlled by the hydroxide ion Z) the pH at the equivalence point is almost always 7
+ANSWER: W) AT THE EQUIVALENCE POINT, THE PH IS PRIMARILY CONTROLLED BY THE ACETATE ION
+BONUS
+2) CHEMISTRY Short Answer Calculate the density, in grams per liter, of diatomic helium gas at 100K and at a pressure of 2 atmospheres:
+ANSWER: 2
+2002 Regional Science Bowl B Round 13 Page 1 TOSS-UP
+3) PHYSICS Short Answer If 8 coulombs of charge pass through a conductor in 1/2 second, how many amperes did the conductor carry?
+ANSWER: 16 AMPERES
+BONUS
+3) PHYSICS Short Answer Assuming the velocity of light is 300,000 kilometers per second in a vacuum, what is the velocity of light, in kilometers/sec, in a transparent substance with a refractive index of 1.25?
+ANSWER: 240,000 (ACCEPT: 240,000 km/sec)
+TOSS-UP
+4) ASTRONOMY Short Answer Tripling the distance to a star will typically reduce its apparent brightness by about how many times?
+ANSWER: 9
+BONUS
+4) ASTRONOMY Short Answer Assuming that the Hubble constant = 40 km/sec/megaparsec, how far away, in megaparsecs, is a galaxy whose red shift is 20,000 km/sec?
+ANSWER: 500 MEGAPARSECS
+2002 Regional Science Bowl B Round 13 Page 2 TOSS-UP
+5) MATH Multiple Choice If one considers the distribution of the means of 5 groups, such a distribution is most accurately referred to as a:
+W) sample distribution X) sampling distribution Y) composite distribution Z) population distribution
+ANSWER: X) SAMPLING DISTRIBUTION
+BONUS
+5) MATH Short Answer If the area of a right triangle ABC is 6 and leg BC is one-third the length of leg AB, what is the length of AB?
+ANSWER: 6
+TOSS-UP
+6) EARTH SCIENCE Multiple Choice Which of the following is responsible for the changing of the seasons:
+W) the Earth's axis is not perpendicular to the ecliptic X) the Earth's orbit is elliptical Y) the Earth's axis precesses Z) the Sun moves through space
+ANSWER: W) THE EARTH'S AXIS IS NOT PERPENDICULAR TO THE ECLIPTIC
+BONUS
+6) EARTH SCIENCE Multiple Choice Which of the following surfaces would exhibit the highest albedo:
+W) bare rock X) an ocean at sunrise Y) an ocean at sunset Z) an ice field
+ANSWER: Z) AN ICE FIELD
+2002 Regional Science Bowl B Round 13 Page 3 TOSS-UP
+7) GENERAL SCIENCE Multiple Choice The profundal zone of a lake is the:
+W) bottom of the lake X) area between the shore and water extending to a depth of about 10 meters Y) upper layer below which the temperature drops Z) deeper part where light does not penetrate
+ANSWER: Z) DEEPER PART WHERE LIGHT DOES NOT PENETRATE
+BONUS
+7) GENERAL SCIENCE Multiple Choice Which of the following chemicals is most predominant in chocolate:
+W) tyrosine X) theophylline Y) theobromine Z) caffeine
+ANSWER: Y) THEOBROMINE
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice One of the ways to start a computer running Windows 95 or 98 in Safe Mode is to:
+W) press control and F1 key at any time X) restart and hold the Escape key Y) press Control + Alt + Delete key at the same time Z) restart and hold down F5 key
+ANSWER: Z) RESTART AND HOLD DOWN F5 KEY
+BONUS
+8) COMPUTER SCIENCE Short Answer Give the Binary, Octal, and Hexadecimal equivalents for the decimal number 9:
+ANSWER: BINARY = 1001; OCTAL = 11; HEXADECIMAL = 9
+2002 Regional Science Bowl B Round 13 Page 4 TOSS-UP
+9) BIOLOGY Short Answer When biologists use bacterial conjugation to map genomes, what electrical appliance is most often used to interrupt conjugation?
+ANSWER: BLENDER (ACCEPT: KITCHEN BLENDER)
+BONUS
+9) BIOLOGY Multiple Choice Which of the following is the most accurate name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids :
+W) triacylglycerol (read as: tri-acyl-gliss-er-ol) X) fatty glycerol Y) esterified lipid Z) triesterglyceride (read as: tri-ester-gliss-er-ide)
+ANSWER: W) TRIACYLGLYCEROL
+TOSS-UP
+10) CHEMISTRY Multiple Choice Which of the following is incorrect:
+W) C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;CHO is an aldehyde X) C&lt;sub&gt;11&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;0 is an alkane Y) C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;OH is an alcohol Z) C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;NH&lt;sub&gt;2&lt;/sub&gt; is an amine
+ANSWER: X) C&lt;sub&gt;11&lt;/sub&gt;H&lt;sub&gt;20&lt;/sub&gt; IS AN ALKANE
+BONUS
+10) CHEMISTRY Short Answer Order the following 4 ionic solids in terms of their lattice energies, going from the highest to the lowest: LiF; MgI&lt;sub&gt;2&lt;/sub&gt;; KF; NaF
+ANSWER: MgI&lt;sub&gt;2&lt;/sub&gt;; LiF; NaF; KF
+2002 Regional Science Bowl B Round 13 Page 5 TOSS-UP
+11) PHYSICS Short Answer Murray Gell-Mann coined the name of these point-like entities that make up hadrons from a novel by James Joyce:
+ANSWER: QUARKS
+BONUS
+11) PHYSICS Short Answer To the nearest meter per second, what is the speed of sound in air if the temperature of the air is 15&amp;deg;C?
+ANSWER: 340 (ACCEPT: 341 METERS PER SECOND)
+TOSS-UP
+12) ASTRONOMY Multiple Choice Most astrophysicists believe that the universe is:
+W) isotropic and homogeneous X) isotropic and non-homogeneous Y) anistotropic and homogeneous Z) anisotropic and non-homogeneous
+ANSWER: W) ISOTROPIC AND HOMOGENEOUS
+BONUS
+12) ASTRONOMY Short Answer Of the following 5 planets, name all that can be in opposition to the Sun: Venus, Saturn, Mercury, Mars, Jupiter
+ANSWER: SATURN, MARS, AND JUPITER (accept in any order)
+2002 Regional Science Bowl B Round 13 Page 6 TOSS-UP
+13) MATH Short Answer Who was the first person known to have proved that the number of primes is infinite, calling them "numbers measured by no number but a unit alone"?
+ANSWER: EUCLID
+BONUS
+13) MATH Short Answer A circle has a diameter of 20 and a minor arc whose interior angle is 90&amp;deg;. In terms of &amp;pi;, what is the arc length?
+ANSWER: 5&amp;pi;
+TOSS-UP
+14) EARTH SCIENCE Multiple Choice Which of the following best approximates the relative humidity in the stratosphere:
+W) 1% X) 10% Y) 35% Z) 50%
+ANSWER: W) 1%
+BONUS
+14) EARTH SCIENCE Short Answer Name the 3 cloud families based on their shape:
+ANSWER: CUMULUS, STRATUS, CIRRUS (in any order)
+2002 Regional Science Bowl B Round 13 Page 7 TOSS-UP
+15) GENERAL SCIENCE Short Answer According to Aristotle, the celestial bodies are made of what fifth element?
+ANSWER: ETHER
+BONUS
+15) GENERAL SCIENCE Multiple Choice If you wanted to see the detailed internal structures of living unstained organisms, which type of microscope would you use:
+W) bright-field X) dark-field Y) phase-contrast Z) scanning-tunneling
+ANSWER: Y) PHASE-CONTRAST
+TOSS-UP
+16) COMPUTER SCIENCE Multiple Choice In workflow modeling, which of the following is NOT part of the ACID properties of transactions:
+W) Atomicity X) Consistency Preservation Y) Invertibility Z) Durability
+ANSWER: Y) INVERTIBLITY
+BONUS
+16) COMPUTER SCIENCE Multiple Choice Which of the following is NOT a storage class specification in C programming:
+W) auto X) switch Y) register Z) static
+ANSWER: X) SWITCH
+2002 Regional Science Bowl B Round 13 Page 8 TOSS-UP
+17) BIOLOGY Multiple Choice Which of the following would be LEAST likely to diffuse through a typical plasma membrane:
+W) propane X) methanol Y) potassium ions Z) carbon dioxide
+ANSWER: Y) POTASSIUM IONS
+BONUS
+17) BIOLOGY Multiple Choice In which of the following cell types does phosphocreatine provide the greatest role:
+W) hepatocyte X) parafollicular cell Y) endothelial cell Z) a skeletal muscle cell
+ANSWER: Z) A SKELETAL MUSCLE CELL
+TOSS-UP
+18) CHEMISTRY Multiple Choice An aldehyde is a class of compounds that contains a carbonyl group bonded to:
+W) 2 carbon atoms X) one or more hydrogen atoms Y) one or more nitrogen atoms Z) 2 sulfur atoms
+ANSWER: X) ONE OR MORE HYDROGEN ATOMS
+BONUS
+18) CHEMISTRY Short Answer Order the following three lipids from lowest to highest melting points: lauric acid, myristic acid, palmitic acid
+ANSWER: LAURIC ACID, MYRISTIC ACID, PALMITIC ACID
+2002 Regional Science Bowl B Round 13 Page 9 TOSS-UP
+19) PHYSICS Short Answer A jet traveling at 800 kilometers per hour has how many more times the kinetic energy than the same jet traveling at 1/2 that speed?
+ANSWER: 4 TIMES
+BONUS
+19) PHYSICS Short Answer What color would be produced when mixing magenta and cyan pigments?
+ANSWER: BLUE
+TOSS-UP
+20) ASTRONOMY Multiple choice What planet is usually obscured by the sun and never seen against a dark sky:
+W) Mars X) Venus Y) Mercury Z) Jupiter
+ANSWER: Y) MERCURY
+BONUS
+20) ASTRONOMY Multiple choice In which of the following illustrative techniques would sunspots occur nearer the solar equator as the cycle of sunspot activity progresses:
+W) Kirkwood's chart X) Maunder's diagram Y) Hubble's chart Z) HR diagram
+ANSWER: X) MAUNDER'S DIAGRAM
+2002 Regional Science Bowl B Round 13 Page 10 TOSS-UP
+21) MATH Multiple Choice Which of the following is NOT true about statistical correlation:
+W) correlation typically distinguishes between explanatory and response variables X) the correlation "r" always lies between +1 and -1 Y) a negative correlation indicates a negative association Z) correlation is usually strongly affected by outlying observations
+ANSWER: W) CORRELATION TYPICALLY DISTINGUISHES BETWEEN EXPLANATORY AND RESPONSE VARIABLES
+BONUS
+21) MATH Short Answer What is the sine of the angle &amp;theta; (pronounced: theta) whose terminal side passes through the points (4, -3)?
+ANSWER: -3/5 (ACCEPT: -0.6)
+TOSS-UP
+22) EARTH SCIENCE Multiple Choice In meteorology, a center where air spirals inward around a low-pressure center and designated on weather maps by the letter "L" is called:
+W) a center of divergence X) coriolis inversion Y) gradient wind Z) cyclonic flow
+ANSWER: Z) CYCLONIC FLOW
+BONUS
+22) EARTH SCIENCE Short Answer In order and starting with the highest, name the 3 boundaries that separate the 4 thermal layers in the Earth's atmosphere:
+ANSWER: MESOPAUSE, STRATOPAUSE, TROPOPAUSE
+2002 Regional Science Bowl B Round 13 Page 11 TOSS-UP
+23) BIOLOGY Short Answer If one parent has an AB blood type and the other parent has an O blood type, what blood types will the children possibly inherit?
+ANSWER: A AND B (DO NOT ACCEPT: AB)
+BONUS
+23) BIOLOGY Multiple Choice Southern blot is to DNA sequences as Northern blot is to:
+W) amino acid sequences X) RNA sequences Y) DNA sequences Z) hybrid DNA/RNA sequences
+ANSWER: X) RNA SEQUENCES
+TOSS-UP
+24) CHEMISTRY Multiple Choice The starch amylopectin is:
+W) unbranched with alpha 1,6 linkages between the monomers X) highly branched with alpha 1,4 linkages at its branch points Y) highly branched with alpha 1,6 linkages at its branch points Z) unbranched with alpha 1,4 linkages between the monomers
+ANSWER: Y) HIGHLY BRANCHED WITH ALPHA 1,6 LINKAGES AT ITS BRANCH POINTS
+BONUS
+24) CHEMISTRY Short Answer In the following reaction, H&lt;sub&gt;2&lt;/sub&gt; + Cl&lt;sub&gt;2&lt;/sub&gt; &amp;#8594; 2HCl, assume the bond dissociation of H&lt;sub&gt;2&lt;/sub&gt; is 430 kilojoules per mole, of Cl&lt;sub&gt;2&lt;/sub&gt; is 240 kilojoules per mole, and of HCl is 400 kilojoules per mole. What is the standard enthalpy change, or &amp;Delta;H&amp;deg;, (read as: delta H degree) for the reaction, in kilojoules:
+ANSWER: -130
+2002 Regional Science Bowl B Round 13 Page 12 TOSS-UP
+25) PHYSICS Short Answer What are the four most common names for the four fundamental forces of nature:
+ANSWER: GRAVITATION, ELECTROMAGNETISM, STRONG, WEAK
+BONUS
+25) PHYSICS Short Answer If a race car driver fully engages the brakes of his car traveling at 150 kilometers per hour, how many times farther will the car skid than if it was traveling at 50 kilometers per hour when the brakes were engaged?
+ANSWER: 9 TIMES
+2002 Regional Science Bowl B Round 13 Page 13

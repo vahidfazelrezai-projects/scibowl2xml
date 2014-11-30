@@ -1,0 +1,162 @@
+TOSS-UP
+1) BIOLOGY Short Answer What is the most common term for the substance recognized as foreign and able to elicit antibody production:
+ANSWER: ANTIGEN
+BONUS
+1) BIOLOGY Multiple Choice Mendel succeeded in forming the basis of modern hereditary theory in part because of his training:
+W) as a printer of rare and scientific documents X) in calligraphy of scientific manuscripts for the Royal Austrian Science Society Y) in probability and mathematics Z) as a scientific apostolic nuncio
+ANSWER: Y) IN PROBABILITY AND MATHEMATICS
+TOSS-UP
+2) CHEMISTRY Short Answer Which of the halogens is a liquid at room temperature:
+ANSWER: BROMINE
+BONUS
+2) CHEMISTRY Short Answer What is the general term for a salt of one of the halogens?
+ANSWER: HALIDE
+2002 Regional Science Bowl B Round 1 Page 1 TOSS-UP
+3) PHYSICS Short Answer What is the unit for electric current equal to 1 coulomb per second?
+ANSWER: AMPERE (ACCEPT: AMP)
+BONUS
+3) PHYSICS Multiple Choice Which of the following is the most dense at standard temperature and pressure:
+W) 10 kilograms of pure water X) 10 kilograms of tungsten Y) 2 kilograms of silver Z) 1 kilogram of mercury
+ANSWER: X) 10 KILOGRAMS OF TUNGSTEN
+TOSS-UP
+4) ASTRONOMY Short Answer As of the summer of 2001, what planet was shown to have the most known moons orbiting it in our solar system?
+ANSWER: SATURN
+BONUS
+4) ASTRONOMY Short Answer What is another name for minor planets, starlike bodies, or planetoids, the vast majority of which have orbits roughly midway between the orbits of Jupiter and Mars?
+ANSWER: ASTEROIDS
+2002 Regional Science Bowl B Round 1 Page 2 TOSS-UP
+5) MATH Short Answer What is the perimeter of a right triangle whose leg lengths are 6 and 8 and whose hypotenuse is 10?
+ANSWER: 24
+BONUS
+5) MATH Short Answer The average of -40, 36, 5, 0, 10 and x is 5. What is the value of x?
+ANSWER: 19
+TOSS-UP
+6) EARTH SCIENCE Multiple Choice Boundaries that form where lithospheric plates are breaking apart to move away from each other are called:
+W) transform boundaries X) divergent margin boundaries Y) suture zone boundaries Z) subduction boundaries
+ANSWER: X) DIVERGENT MARGIN BOUNDARIES
+BONUS
+6) EARTH SCIENCE Short Answer Based on compositional boundaries, name the three different layers that make up the structure of the solid portion of the planet Earth?
+ANSWER: CORE, MANTLE, CRUST (accept in any order)
+2002 Regional Science Bowl B Round 1 Page 3 TOSS-UP
+7) GENERAL SCIENCE Short Answer What do the abbreviations TC and TD stand for that are seen on some laboratory pipettes?
+ANSWER: TO CONTAIN AND TO DELIVER
+BONUS
+7) GENEAL SCIENCE Short Answer What Greek letter is used to symbolize wavelength?
+ANSWER: LAMBDA
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice Software that is often distributed free of charge and usually intended for sale after a trial period is called:
+W) freeware X) shareware Y) open source Z) public-domain
+ANSWER: X) SHAREWARE
+BONUS
+8) COMPUTER SCIENCE Short Answer The binary number 10101 (read as: one, zero, one, zero, one) is equivalent to what decimal number?
+ANSWER: 21
+2002 Regional Science Bowl B Round 1 Page 4 TOSS-UP
+9) BIOLOGY Short Answer What is the most common scientific term for plant water loss through stomata:
+ANSWER: TRANSPIRATION
+BONUS
+9) BIOLOGY Short Answer What are the four main human blood types?
+ANSWER: O, A, B, AND AB (accept in any order)
+TOSS-UP
+10) CHEMISTRY Multiple Choice Which of the following atomic features is the most important in controlling the reactivity of an atom:
+W) core electrons X) valence-shell electrons Y) protons Z) neutrons
+ANSWER: X) VALENCE-SHELL ELECTRONS
+BONUS
+10) CHEMISTRY Short Answer What is the rule that states that main-group elements tend to undergo reactions that leave them with 8 outer-shell electrons?
+ANSWER: OCTET RULE
+2002 Regional Science Bowl B Round 1 Page 5 TOSS-UP
+11) PHYSICS Short Answer How many nanometers are in an angstrom?
+ANSWER: 0.1 (ACCEPT: ONE-TENTH)
+BONUS
+11) PHYSICS Short Answer For a perfectly spherical planet of uniform density, the gravitational acceleration at a point half way to the surface from its center will be what fraction of the gravitational acceleration at the surface?
+ANSWER: 1/2
+TOSS-UP
+12) ASTRONOMY Short Answer What planet is the most distant gas giant from the sun?
+ANSWER: NEPTUNE
+BONUS
+12) ASTRONOMY Multiple Choice Refracting telescopes always contain which of the following:
+W) mirrors X) lenses Y) television systems Z) film
+ANSWER: X) LENSES
+2002 Regional Science Bowl B Round 1 Page 6 TOSS-UP
+13) MATH Short Answer What is the remainder of (148 + 10) / 7 ?
+ANSWER: 4
+BONUS
+13) MATH Short Answer If y varies directly as x, and y = 42 when x = 30, find y if x = 45:
+ANSWER: 63
+TOSS-UP
+14) EARTH SCIENCE Multiple Choice Which of the following types of moraines does NOT parallel ice flow:
+W) medial X) lateral Y) double lateral Z) end
+ANSWER: Z) END
+BONUS
+14) EARTH SCIENCE Multiple Choice The combination of lingering air and abundance of particulates and other pollutants in the air over cities produces what is commonly known as the:
+W) urban depletion area X) urban dust dome Y) urban frontal zone Z) urban overcast zone
+ANSWER: X) URBAN DUST DOME
+2002 Regional Science Bowl B Round 1 Page 7 TOSS-UP
+15) GENERAL SCIENCE Short Answer Rounded to the nearest decimal place, convert 13 Kelvin into degrees Centigrade:
+ANSWER: -260
+BONUS
+15) GENERAL SCIENCE Short Answer Express the number 9587.3 in proper scientific notation with the correct amount of significant figures:
+ANSWER: 9.5873 x 10&lt;sup&gt;3&lt;/sup&gt;
+TOSS-UP
+16) COMPUTER SCIENCE Multiple Choice The file extension .MID (read as: dot, M, I, D) usually means that the file can be opened by what type of program:
+W) text editor X) graphics Y) database Z) music
+ANSWER: Z) MUSIC
+BONUS
+16) COMPUTER SCIENCE Short Answer The decimal number 15 is equivalent to what octal number?
+ANSWER: 17
+2002 Regional Science Bowl B Round 1 Page 8 TOSS-UP
+17) BIOLOGY Short Answer The spines of cacti are a modification of what plant structure?
+ANSWER: LEAF (ACCEPT: LEAVES)
+BONUS
+17) BIOLOGY Short Answer What is the most common biochemical term for the degradative phases of metabolism?
+ANSWER: CATABOLISM
+TOSS-UP
+18) CHEMISTRY Short Answer In the periodic table, what name is given to the number representing the total of a given element's protons and neutrons?
+ANSWER: ATOMIC MASS
+BONUS
+18) CHEMISTRY Short Answer What is the general term for a bond in which the shared bonding electrons are attracted somewhat more strongly by one atom than the other?
+ANSWER: POLAR COVALENT BOND
+2002 Regional Science Bowl B Round 1 Page 9 TOSS-UP
+19) PHYSICS Short Answer In additive color synthesis, what do equal proportions of two primary colors create?
+ANSWER: A SECONDARY COLOR
+BONUS
+19) PHYSICS Short Answer If the speed of a charged particle is doubled while it is moving in a circular orbit in a uniform magnetic field, by what multiple will the orbital radius increase?
+ANSWER: 2
+TOSS-UP
+20) ASTRONOMY Short Answer Which of the Galilean moons orbiting Jupiter is the most geologically active object in the entire solar system, commonly referred to as the "pizza moon," and has the longest diameter of 3,630 kilometers?
+ANSWER: IO
+BONUS
+20) ASTRONOMY Short Answer The Tharsis bulge is the major geological feature of what planet?
+ANSWER: MARS
+2002 Regional Science Bowl B Round 1 Page 10 TOSS-UP
+21) MATH Short Answer The price of a postage stamp changes from 33 cents to 34 cents. What is the percent increase in price?
+ANSWER: 3 (ACCEPT: 3.03)
+BONUS
+21) MATH Short Answer After a 20% increase, the new price of a tennis racket is $180.00. What was the original price of the racket?
+ANSWER: $150.00
+TOSS-UP
+22) EARTH SCIENCE Multiple Choice What scale is used to classify the strength of hurricanes based on its greatest wind speed:
+W) Saffir-Simpson X) Beaufort Y) Modified Mercalli Z) Fujita
+ANSWER: W) SAFFIR-SIMPSON
+BONUS
+22) EARTH SCIENCE Multiple Choice Which of the following is NOT classified as a low-level cloud:
+W) altostratus X) nimbostratus Y) stratocumulus Z) stratus
+ANSWER: W) ALTOSTRATUS
+2002 Regional Science Bowl B Round 1 Page 11 TOSS-UP
+23) BIOLOGY Short Answer To prepare a tincture of iodine the iodine is mixed in what general type of solvent?
+ANSWER: ALCOHOL
+BONUS
+23) BIOLOGY Short Answer What person, in 1676, reported to the Royal Society of London the first known observations of protozoans?
+ANSWER: ANTON VAN LEEUWENHOEK (ACCEPT: LEEUWENHOEK)
+TOSS-UP
+24) CHEMISTRY Short Answer What is the name of the element with the symbol Sb?
+ANSWER: ANTIMONY
+BONUS
+24) CHEMISTRY Short Answer Which element has the lowest ionization energy of all stable neutral atoms?
+ANSWER: CESIUM (ACCEPT: CS)
+2002 Regional Science Bowl B Round 1 Page 12 TOSS-UP
+25) PHYSICS Short Answer According to the typical color triangle, what are the three primary colors of light?
+ANSWER: RED, GREEN, AND BLUE
+BONUS
+25) PHYSICS Short Answer That no two electrons in an atom can have an identical set of quantum numbers is best known as what principle?
+ANSWER: PAULI EXCLUSION PRINCIPLE (ACCEPT: EXCLUSION PRINCIPLE)
+2002 Regional Science Bowl B Round 1 Page 13

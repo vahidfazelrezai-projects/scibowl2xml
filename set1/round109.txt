@@ -1,0 +1,234 @@
+TOSS-UP
+1) PHYSICS Multiple Choice Which of the following is the magnitude of the focal length of a spherically curved convex mirror in air, where R stands for the radius of curvature:
+W) R divided by 1.22
+X) R divided by 2
+Y) R divided by 1.5
+Z) R times 4
+ANSWER: X) R DIVIDED BY 2
+BONUS
+1) PHYSICS Short Answer An emergency floodlight draws 1 ampere from its battery pack. How many coulombs will flow through the light in 4 hours?
+ANSWER: 14,400
+TOSS-UP
+2) CHEMISTRY Multiple Choice About how many calories per gram will it take to sublimate water at standard pressure:
+W) 180
+X) 360
+Y) 540
+Z) 720
+ANSWER: Z) 720
+BONUS
+2) CHEMISTRY Multiple Choice A Buchner (read as: BYOU-kh-ner) funnel is a piece of laboratory glassware often used in chemistry labs for which of the following procedures:
+W) combustion
+X) filtration
+Y) centrifugation
+Z) distillation
+ANSWER: X) FILTRATION
+TOSS-UP
+3) BIOLOGY Multiple Choice Which of the following tissues is most directly responsible for the growth in height of a tree:
+W) apical meristem
+X) shoot terminus
+Y) terminal cambial
+Z) cambium terminus
+ANSWER: W) APICAL MERISTEM
+BONUS
+3) BIOLOGY Short Answer What specific cells and how many of them border each stomal pore?
+ANSWER: GUARD CELLS; 2
+TOSS-UP
+4) MATH Multiple Choice If e&lt;sup&gt;(x/5)&lt;/sup&gt; = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7:
+W) 15
+X) 16
+Y) 17
+Z) 18
+ANSWER: Y) 17
+BONUS
+4) MATH Short Answer If the area of a regular pentagon is 280 square centimeters, what is the length, in centimeters, of each side if the apothem is 16 centimeters?
+ANSWER: 7
+TOSS-UP
+5) EARTH SCIENCE Multiple Choice Tree growth is often very stunted and gnarly at the tree line of high mountains in North America. Known as Krummholz formations, this is primarily caused by:
+W) winds
+X) subsidence
+Y) lowered atmospheric pressure
+Z) low sunlight levels
+ANSWER: W) WINDS
+BONUS
+5) EARTH SCIENCE Multiple Choice Which of the following is generally NOT true of the alpine versus arctic tundra biomes:
+W) alpine tundra does not contain permafrost whereas arctic tundra does contain permafrost
+X) alpine tundra is warmer and has a longer growing season than arctic tundra
+Y) alpine tundra has a lower species diversity than arctic tundra
+Z) alpine tundra has less severe winters than arctic tundra
+ANSWER: Y) ALPINE TUNDRA HAS A LOWER SPECIES DIVERSITY THAN ARCTIC TUNDRA
+TOSS-UP
+6) GENERAL SCIENCE Short Answer Name 2 of the following 4 choices that are the 2 main logical reasoning methods used in science: inductive; synthetic; observational; deductive
+ANSWER: INDUCTIVE; DEDUCTIVE
+BONUS
+6) GENERAL SCIENCE Short Answer To the nearest whole number, convert 50&amp;deg;F into kelvin:
+ANSWER: 283
+TOSS-UP
+7) ASTRONOMY Multiple Choice Which of the following is NOT true:
+W) the star Sirius at its brightest has an apparent magnitude of about negative 1.5
+X) metal-rich stars sometimes have planets
+Y) typical binoculars allow observation of stars with apparent magnitudes of about 9.0
+Z) the Sun has an apparent magnitude of about negative 12
+ANSWER: Z) THE SUN HAS AN APPARENT MAGNITUDE OF ABOUT NEGATIVE 12
+BONUS
+7) ASTRONOMY Multiple Choice Astronomers will often refer to certain stars as low metal content stars. In this sense astronomers consider metals as any element:
+W) heavier than helium 
+X) heavier than carbon 
+Y) heavier than copper 
+Z) heavier than iron
+ANSWER: W) HEAVIER THAN HELIUM
+TOSS-UP
+8) PHYSICS Multiple Choice Which of the following MOST directly determines the permittivity of a material:
+W) ability of the material to magnetize 
+X) electrical susceptibility
+Y) electrical insulation capacity
+Z) electrical conductivity
+ANSWER: X) ELECTRICAL SUSCEPTIBILITY
+BONUS
+8) PHYSICS Short Answer What are the SI units for permittivity?
+ANSWER: FARADS PER METER
+TOSS-UP
+9) CHEMISTRY Multiple Choice Which of the following is one of the main reasons why oxygenates are used as gasoline additives:
+W) allow for more complete combustion
+X) decrease sulfur buildup in engine pistons 
+Y) prevent water condensation in stored fuels 
+Z) corrosion inhibition
+ANSWER: W) ALLOW FOR MORE COMPLETE COMBUSTION
+BONUS
+9) CHEMISTRY Short Answer Consider the following equilibrium reaction, PCl&lt;sub&gt;5(gas)&lt;/sub&gt; &#8596; PCl&lt;sub&gt;3(gas)&lt;/sub&gt; + Cl&lt;sub&gt;2(gas)&lt;/sub&gt;. If a 2 mole sample of PCl&lt;sub&gt;5&lt;/sub&gt; dissociates to give 0.2 moles of Cl&lt;sub&gt;2&lt;/sub&gt; at equilibrium, find the molar amounts, to the 1st decimal place, of PCl&lt;sub&gt;5&lt;/sub&gt; at equilibrium:
+ANSWER: 1.8
+TOSS-UP
+10) BIOLOGY Short Answer During what phase of meiosis-one do homologous chromosomes exchange genetic information?
+ANSWER: PROPHASE-ONE (ACCEPT: PROPHASE)
+BONUS
+10) BIOLOGY Short Answer Order the following 3 choices from the EARLIEST stage to the LATEST stage of ovarian follicle development, and identify which of the structures is typically the LARGEST: secondary follicle; corpus luteum; corpus albicans
+ANSWER: SECONDARY FOLLICLE; CORPUS LUTEUM; CORPUS ALBICANS; LARGEST = CORPUS LUTEUM
+TOSS-UP
+11) MATH Short Answer A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8&amp;pi; meters:
+ANSWER: 90
+BONUS
+11) MATH Short Answer Find the sum of the first 10 terms of the arithmetic sequence whose first three terms are 7, 11, and 15:
+ANSWER: 250
+TOSS-UP
+12) EARTH SCIENCE Multiple Choice Which of the following is the most common type of ocean tide throughout the world and is the type found along the U.S. Pacific coast:
+W) diurnal
+X) semidiurnal 
+Y) mixed
+Z) zonal
+ANSWER: Y) MIXED
+BONUS
+12) EARTH SCIENCE Multiple Choice In which of the following regions of the world’s oceans are you most likely to find the greatest uniformity in density changes with increasing depth:
+W) equator
+X) tropics
+Y) high latitudes 
+Z) desert latitudes
+ANSWER: Y) HIGH LATITUDES
+TOSS-UP
+13) GENERAL SCIENCE Multiple Choice Which of the following is a jaw-less fish:
+W) lungfish 
+X) catfish 
+Y) lamprey 
+Z) sturgeon
+ANSWER: Y) LAMPREY
+BONUS
+13) GENERAL SCIENCE Short Answer In the northern hemisphere, name all of the following 4 northern degree latitudes that will experience a 12-hour length of day during the vernal equinox: 0&amp;deg;; 10&amp;deg;; 15&amp;deg;; 20&amp;deg;
+ANSWER: ALL
+TOSS-UP
+14) ASTRONOMY Short Answer As a comet approaches the Sun, most of its icy substances are released during what phase change process?
+ANSWER: SUBLIMATION
+BONUS
+14) ASTRONOMY Multiple Choice During which of the following orbital arrangements can a transit occur for the planet Venus:
+W) opposition
+X) greatest eastern elongation 
+Y) superior conjunction
+Z) inferior conjunction
+ANSWER: Z) INFERIOR CONJUNCTION
+TOSS-UP
+15) PHYSICS Short Answer What is the general term for the process of making different types of semiconductors by adding slight amounts of impurities into the silicon matrix?
+ANSWER: DOPING
+BONUS
+15) PHYSICS Short Answer What specific type of semiconductor is produced by doping silicon with arsenic?
+ANSWER: N-TYPE
+TOSS-UP
+16) CHEMISTRY Multiple Choice The reaction CuCl&lt;sub&gt;2&lt;/sub&gt; + Na&lt;sub&gt;2&lt;/sub&gt;S &amp;#8594; CuS + 2NaCl&lt;sub&gt;2&lt;/sub&gt;, is an example of what class of chemical reaction:
+W) synthesis
+X) single replacement 
+Y) double replacement 
+Z) decomposition
+ANSWER: Y) DOUBLE REPLACEMENT
+BONUS
+16) CHEMISTRY Short Answer Name all of the following 4 species that contain an odd number of electrons: O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;1-&lt;/sup&gt;; O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;; SO&lt;sub&gt;2&lt;/sub&gt;; CO
+ANSWER: O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;1-&lt;/sup&gt;
+TOSS-UP
+17) BIOLOGY Multiple Choice Which of the following is the most common term for an area of primitive cells in plants where active cell division occurs:
+W) meristem
+X) ground tissue 
+Y) primary cells 
+Z) germinal tissue
+ANSWER: W) MERISTEM
+BONUS
+17) BIOLOGY Short Answer What is the layer typically found between 2 plant cell walls of adjoining plant cells which is composed of pectin?
+ANSWER: MIDDLE LAMELLA
+TOSS-UP
+18) MATH Short Answer What is the name for the test that can be used to visually determine whether or not a relation defined by a graph represents a function?
+ANSWER: VERTICAL LINE TEST (ACCEPT: VERTICAL LINE)
+BONUS
+18) MATH Short Answer Find the x and y intercepts of the line passing through the point (4, 8) that is perpendicular to the line 3x – 6y – 12 = 0:
+ANSWER: X-INTERCEPT = (8, 0) (ACCEPT: 8); Y-INTERCEPT = (0, 16) (ACCEPT: 16)
+TOSS-UP
+19) EARTH SCIENCE Multiple Choice Which of the following is a medium or coarse-grained rock that consists primarily of plagioclase feldspar and pyroxene and is essentially the plutonic equivalent of basalt:
+W) diorite 
+X) rhyolite 
+Y) andesite 
+Z) gabbro
+ANSWER: Z) GABBRO
+BONUS
+19) EARTH SCIENCE Multiple Choice Scoria is most typically described as having which of the following textures:
+W) phaneritic 
+X) fragmental 
+Y) porphyritic 
+Z) vesicular
+ANSWER: Z) VESICULAR
+TOSS-UP
+20) GENERAL SCIENCE Multiple Choice Blepharitis (read as: bleff-ah-rye-tis) in humans is an inflammation of the:
+W) urinary bladder 
+X) eyelid
+Y) fingernail
+Z) tongue
+ANSWER: X) EYELID
+BONUS
+20) GENERAL SCIENCE Multiple Choice Which of the following is a principal component of a siderite meteorite:
+W) neptunium
+X) carbon
+Y) iron
+Z) erbium
+ANSWER: Y) IRON
+TOSS-UP
+21) ASTRONOMY Short Answer Which 2 of the following 4 factors most directly determine the apparent visual magnitude of a star: distance from Earth; intrinsic brightness; color; age
+ANSWER: DISTANCE FROM EARTH; INTRINSIC BRIGHTNESS
+BONUS
+21) ASTRONOMY Short Answer What 2 characteristics of Uranus are most commonly noted as the reasons why Uranus was not discovered until the late 1700’s?
+ANSWER: APPARENT MAGNITUDE; ORBITAL PERIOD ( ACCEPT: BRIGHTNESS or MAGNITUDE)
+TOSS-UP
+22) PHYSICS Short Answer In the electrolysis of water, if the production of each molecule of oxygen requires 4 units of electricity, each hydrogen molecule will require how many units of electricity?
+ANSWER: 2
+BONUS
+22) PHYSICS Short Answer What is the maximum number of 100-watt light bulbs that can run on a 110-volt residential circuit protected by a 15-amp fuse without blowing the fuse?
+ANSWER: 16
+TOSS-UP
+23) CHEMISTRY Short Answer What are the 2 alkenes (read as: al-KEENS) with the shortest carbon chains and lowest molecular weights?
+ANSWER: ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE)
+BONUS
+23) CHEMISTRY Short Answer Arrange the following 4 metals in order of increasing reactivity in dilute HCl: zinc; aluminum; gold; calcium
+ANSWER: GOLD; ZINC; ALUMINUM; CALCIUM
+TOSS-UP
+24) BIOLOGY Short Answer Which one of basic plant cell types has a primary and secondary cell wall that is dead when mature?
+ANSWER: SCLERENCHYMA
+BONUS
+24) BIOLOGY Short Answer Name all of the following 4 plants that produce seeds: cycads; ferns; mosses; conifers
+ANSWER: CYCADS; CONIFERS
+TOSS-UP
+25) CHEMISTRY Short Answer What is the general name for a substance that facilitates a chemical reaction by providing an alternative reaction pathway with a lower activation energy while remaining unaltered?
+ANSWER: CATALYST
+BONUS
+25) CHEMISTRY Short Answer You need to prepare 500 milliliters of a 0.100 molar NaOH solution from a 0.250 molar solution. What volume, in milliliters, of the 0.250 molar solution must be diluted to 500 milliliters?
+ANSWER: 200

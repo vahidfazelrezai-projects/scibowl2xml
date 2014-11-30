@@ -1,0 +1,178 @@
+TOSS-UP
+1) CHEMISTRY Multiple Choice Which of the following is NOT considered a state function of a system in a reaction:
+W) work X) enthalpy Y) temperature Z) volume
+ANSWER: W) WORK
+BONUS
+1) CHEMISTRY Short Answer What is the name of the law that states that the overall enthalpy change for a reaction is equal to the sum of the enthalpy changes for the individual steps in the reaction:
+ANSWER: HESS'S LAW (ACCEPT: HESS)
+TOSS-UP
+2) PHYSICS Multiple Choice A beam of white light is incident on one face of a prism. Which of the following colors will emerge on the other side at the lowest angle with respect to the primary beam:
+W) violet X) yellow Y) red Z) blue
+ANSWER: Y) RED
+BONUS
+2) PHYSICS Short Answer Consider a lever with a 4-gram mass located 12 centimeters from its fulcrum. A 6-gram mass is placed on the opposite side of the lever. How far, in centimeters, must the 6-gram mass be placed from the fulcrum to equally balance the 4-gram mass?
+ANSWER: 8 CENTIMETERS
+2002 Regional Science Bowl B Round 7 Page 1 TOSS-UP
+3) BIOLOGY Short Answer What is the substrate for which catalase has the greatest affinity?
+ANSWER: HYDROGEN PEROXIDE (ACCEPT: H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;)
+BONUS
+3) BIOLOGY Multiple Choice Which of the following kinds of microscopy will most commonly employ freeze fracture preparation of tissue specimens:
+W) bright field microscopy X) scanning electron microscopy Y) Normarsky microscopy Z) transmission electron microscopy
+ANSWER: X) SCANNING ELECTRON MICROSCOPY
+TOSS-UP
+4) ASTRONOMY Multiple Choice Cepheid variables are a large and important group of:
+W) yellow giants and super giants X) red giants Y) blue giants Z) pulsating quasars
+ANSWER: W) YELLOW GIANTS AND SUPER GIANTS
+BONUS
+4) ASTRONOMY Short Answer What is the name of the simple astronomical instrument consisting of a vertical stick placed in a sunny spot to cast a shadow?
+ANSWER: GNOMON
+2002 Regional Science Bowl B Round 7 Page 2 TOSS-UP
+5) MATH Short Answer Find the derivative of the following function: f(x) = sin(ln x) (read as: f of x equals the sine of the natural log of x)
+ANSWER: cos(ln x)/x
+BONUS
+5) MATH Multiple Choice Using the Cartesian coordinate system, find the distance between the points (2, 3) and (-3, 1):
+W) &amp;radic;29 X) &amp;radic;7 Y) &amp;radic;5 Z) &amp;radic;39
+ANSWER: W) &amp;radic;29
+TOSS-UP
+6) EARTH SCIENCE Multiple Choice What percentage of the earth's total volcanic activity occurs under the ocean?
+W) 30% X) 45% Y) 65% Z) 90%
+ANSWER: Z) 90%
+BONUS
+6) EARTH SCIENCE Multiple Choice Which of the following is NOT true about the Earth's troposphere:
+W) within the layer, temperature decreases with altitude X) it is terminated by the tropopause Y) it contains the jet stream Z) within the layer, temperature increases with altitude
+ANSWER: Z) WITHIN THE LAYER, TEMPERATURE INCREASES WITH ALTITUDE
+2002 Regional Science Bowl B Round 7 Page 3 TOSS-UP
+7) GENERAL SCIENCE Multiple Choice Galena is a primary ore of which of the following metals:
+W) zinc X) lead Y) germanium Z) tungsten
+ANSWER: X) LEAD
+BONUS
+7) GENERAL SCIENCE Short Answer According to Aristotle, the portion of the Cosmos lower than the moon is made of what four elements?
+ANSWER: EARTH, WATER, AIR, FIRE (accept in any order)
+TOSS-UP
+8) COMPUTER SCIENCE Multiple Choice The letter "T" in 10 Base-T wiring refers to:
+W) Teflon coated X) telephone wire Y) tetrahedral packing Z) twisted pair
+ANSWER: Z) TWISTED PAIR
+BONUS
+8) COMPUTER SCIENCE Multiple Choice In Windows 98, what screen would you access to change device resources and troubleshoot resource conflicts:
+W) Device Performance Console X) Device Add/Remove Y) Device Changer Z) Device Manager
+ANSWER: Z) DEVICE MANAGER
+2002 Regional Science Bowl B Round 7 Page 4 TOSS-UP
+9) CHEMISTRY Multiple Choice Which of the following is a manufactured fiber composed of regenerated cellulose or of regenerated cellulose in which substituents have replaced more than 15% of the hydrogens of the hydroxyl groups:
+W) polyester X) silk Y) rayon Z) nylon
+ANSWER: Y) RAYON
+BONUS
+9) CHEMISTRY Short Answer If the temperature of a 4L tank of gas changes from 200K to 500K, at constant pressure what is the new volume of gas, in liters:
+ANSWER: 10
+TOSS-UP
+10) PHYSICS Short Answer According to the work of Coulomb, if the charge on either one of two tiny objects was doubled, by what multiple would the total force on the particles increase?
+ANSWER: 2 TIMES
+BONUS
+10) PHYSICS Multiple Choice In the Bragg equation which is conventionally written as, n&amp;lambda; = 2d sin N (Read as: n lambda equals two d sine phi), which of the following is the correct description of the angle phi:
+W) the complementary angle with respect to the normal to the crystal surface X) the angle between the incident ray and the normal to the crystal surface Y) the angle between the incident ray and the crystal surface Z) the internal angle of reflection of the crystal
+ANSWER: Y) THE ANGLE BETWEEN THE INCIDENT RAY AND THE CRYSTAL SURFACE
+2002 Regional Science Bowl B Round 7 Page 5 TOSS-UP
+11) BIOLOGY Short Answer What scientist in 1936, building on the discoveries of Szent-Gyorgyi, (Pronounced: SENT- GEE-or-gee) postulated the basic reactions of the tricarboxylic (read as: tri-car- box-ill-ick) acid cycle?
+ANSWER: KREBS
+BONUS
+11) BIOLOGY Multiple Choice At which of the following wavelengths will photosynthesis in a spinach plant be greatest:
+W) 475 nanometers X) 550 nanometers Y) 600 nanometers Z) 750 nanometers
+ANSWER: W) 475 NANOMETERS
+TOSS-UP
+12) ASTRONOMY Multiple Choice Which of the following planets sees the Sun rising from the west and setting in the east during its Autumn and Spring equinoxes?
+W) Mars X) Saturn Y) Uranus Z) Mercury
+ANSWER: Y) URANUS
+BONUS
+12) ASTRONOMY Short Answer Who is the author of the book titled "On the Revolution of the Heavenly Spheres" which rejected the Earth-centric universe?
+ANSWER: COPERNICUS
+2002 Regional Science Bowl B Round 7 Page 6 TOSS-UP
+13) MATH Short Answer What percent of a normally distributed sample lies within 2 standard deviations of the mean?
+ANSWER: 95%
+BONUS
+13) MATH Short Answer What is the smallest integer that satisfies the following inequality: x/2 + x/3 &amp;gt; 5
+ANSWER: 7
+TOSS-UP
+14) EARTH SCIENCE Multiple Choice A wave base is defined as the depth below an ocean wave in deep water below which stirring due to wind is negligible, and is approximately equal to:
+W) 1/8 of its wavelength X) 1/4 of its wavelength Y) 1/2 of its wavelength Z) 3/4 of its wavelength
+ANSWER: Y) 1/2 OF ITS WAVELENGTH
+BONUS
+14) EARTH SCIENCE Multiple Choice A clastic particle falling within the size range of 1/16&lt;sup&gt;th&lt;/sup&gt; mm to 2 mm is called:
+W) silt X) sand Y) clay Z) pebble
+ANSWER: X) SAND
+2002 Regional Science Bowl B Round 7 Page 7 TOSS-UP
+15) GENERAL SCIENCE Multiple Choice Which of the following woods is most desirable for fence posts in wet environments:
+W) locust X) oak Y) alder Z) hickory
+ANSWER: W) LOCUST
+BONUS
+15) GENERAL SCIENCE Multiple Choice BenzoPyrenes are food toxins that can be found in low concentrations in:
+W) charcoal-broiled meats X) uncooked shellfish Y) raw eggs Z) wild mushrooms
+ANSWER: W) CHARCOAL-BROILED MEATS
+TOSS-UP
+16) COMPUTER SCIENCE Short Answer The elapsed time between the initiation of a request for data and the receipt of the first bit or byte of that data is called:
+ANSWER: ACCESS TIME (ACCEPT: DISK ACCESS TIME)
+BONUS
+16) COMPUTER SCIENCE Multiple Choice Which of the following is a port that transmits data in a sort of wave, 8 bits across, in which each bit goes in the same direction at the same time:
+W) LPT X) serial Y) USB Z) FireWire
+ANSWER: W) LPT
+2002 Regional Science Bowl B Round 7 Page 8 TOSS-UP
+17) CHEMISTRY Multiple Choice A substance with an acid dissociation constant, or K&lt;sub&gt;a&lt;/sub&gt;, of 1 x 10&lt;sup&gt;-9&lt;/sup&gt; would be considered a:
+W) weak acid X) strong acid Y) weak base Z) strong base
+ANSWER: W) WEAK ACID
+BONUS
+17) CHEMISTRY Short Answer Which Law states that the rate of effusion of a gas is inversely proportional to the square root of its molar mass?
+ANSWER: GRAHAMS' LAW
+TOSS-UP
+18) PHYSICS Short Answer According to quantum electrodynamics, what is exchanged that gives rise to the electromagnetic force between 2 charged particles?
+ANSWER: PHOTONS
+BONUS
+18) PHYSICS Short Answer What are the spin quantities for a gauge boson, a lepton, and a kaon, respectively?
+ANSWER: 1; 1/2; 0
+2002 Regional Science Bowl B Round 7 Page 9 TOSS-UP
+19) BIOLOGY Short Answer A nucleosome is composed of what general class of proteins?
+ANSWER: HISTONES
+BONUS
+19) BIOLOGY Multiple Choice In the cloning of plants such as orchids, the most desirable tissue to begin culturing in vitro is:
+W) radial cambium X) shoot meristematic tissue Y) amyloplasts Z) stem internodes
+ANSWER: X) SHOOT MERISTEMATIC TISSUE
+TOSS-UP
+20) ASTRONOMY Short Answer What is the Greek name meaning sparkling or scorching for the star, alpha Canis Majoris?
+ANSWER: SIRIUS
+BONUS
+20) ASTRONOMY Multiple Choice One important difference between spiral and elliptical galaxies is that:
+W) spiral galaxies contain Population II stars X) spiral galaxies contain clouds of gas and are still forming stars Y) spiral galaxies contain a massive black hole Z) spiral galaxies are formed by a more rapid accumulation of mass
+ANSWER: X) SPIRAL GALAXIES CONTAIN CLOUDS OF GAS AND ARE STILL FORMING STARS
+2002 Regional Science Bowl B Round 7 Page 10 TOSS-UP
+21) MATH Short Answer What parameter, usually signified by a lower case r, describes the direction and strength of a straight-line relationship between two quantifiable variables?
+ANSWER: CORRELATION (ACCEPT: PEARSON'S CORRELATION or CORRELATION COEFFICIENT or PEARSON'S R, or THE PEARSON PRODUCT MOMENT CORRELATION)
+BONUS
+21) MATH Short Answer In terms of &amp;pi;, what is the area of a sector in a circle whose central angle is 40&amp;deg; bounded by two radii of 6?
+ANSWER: 4&amp;pi;
+TOSS-UP
+22) GENERAL SCIENCE Multiple Choice A flurry of recent reports in neurology and psychology points to protein translation in cerebral cortex dendrites leading to changes in synapses vital to what biological process:
+W) voluntary motor control X) stem cell repair Y) myelination Z) learning
+ANSWER: Z) LEARNING
+BONUS
+22) GENERAL SCIENCE Multiple Choice A common type of distortion in CRT monitors in which horizontal and vertical lines bend inwards towards the center of the display is called:
+W) spiral distortion X) barrel distortion Y) trapezoid distortion Z) pincushion distortion
+ANSWER: Z) PINCUSHION DISTORTION
+2002 Regional Science Bowl B Round 7 Page 11 TOSS-UP
+23) CHEMISTRY Multiple Choice A racemic mixture is a solution that contains:
+W) a 50:50 mixture of (+) and (-) isomers X) greater than 50% of the (+) isomers Y) greater than 50% of the (-) isomers Z) only one species of isomer
+ANSWER: W) A 50:50 MIXTURE OF (+) AND (-) ISOMERS
+BONUS
+23) CHEMISTRY Multiple Choice Separation of proteins by centrifugation in a sucrose density gradient is based on:
+W) size and shape only X) size only Y) density only Z) size, shape, and density
+ANSWER: Z) SIZE, SHAPE, AND DENSITY
+TOSS-UP
+24) PHYSICS Short Answer Which 2 of the following 4 parameters most directly yield the product used in the Lawson criterion for nuclear fusion: ion density; fusion temperature; isotope half-life; energy confinement time
+ANSWER: ION DENSITY AND ENERGY CONFINEMENT TIME (accept in any order)
+BONUS
+24) PHYSICS Multiple Choice The toroidal magnetic field in the Tokamak fusion confinement is oriented in which of the following directions:
+W) uniformly throughout the toroid X) oblique to the toroid axis Y) perpendicular to the toroid axis Z) parallel to the surface of the toroid
+ANSWER: Z) PARALLEL TO THE SURFACE OF THE TOROID
+2002 Regional Science Bowl B Round 7 Page 12 TOSS-UP
+25) BIOLOGY Short Answer Which germ layer in mammals is predominantly responsible for the gut lining and digestive glands?
+ANSWER: ENDODERM
+BONUS
+25) BIOLOGY Short Answer Shistosomia mansoni is to shistosomiasis as Trypanasoma cruzi (Pronounced as TRY-pana-soma CREW-zeye) is to:
+ANSWER: CHAGAS' DISEASE
+2002 Regional Science Bowl B Round 7 Page 13

@@ -1,0 +1,237 @@
+TOSS-UP
+1) BIOLOGY Multiple Choice Which of the following is TRUE:
+W) chimpanzees are an ancestor of Homo sapiens
+X) bipedal motion dominated hominoid ancestors by about 30 million years ago
+Y) humans and modern apes have a common ancestor
+Z) Neanderthals were ancestors to modern humans
+ANSWER: Y) HUMANS AND MODERN APES HAVE A COMMON ANCESTOR
+BONUS
+1) BIOLOGY Short Answer Order the following 5 taxonomic group with the MOST members to the one with the FEWEST members: genus; order; phylum; class; family
+ANSWER: PHYLUM; CLASS; ORDER; FAMILY; GENUS
+TOSS-UP
+2) CHEMISTRY Multiple Choice Which of the following is an element that is very important to human life, is contained in vitamin B-12, belongs to a group of transition metals, and has magnetic properties like iron:
+W) selenium
+X) cobalt
+Y) zinc
+Z) manganese
+ANSWER: X) COBALT
+BONUS
+2) CHEMISTRY Short Answer What is the pH of a 1 molar NaOH solution at 25&amp;deg;C?
+ANSWER: 14
+TOSS-UP
+3) PHYSICS Multiple Choice Which of the following is the most common instrument used for measuring gas pressure:
+W) manometer
+X) anemometer
+Y) tensitometer
+Z) flow-meter
+ANSWER: W) MANOMETER
+BONUS
+3) PHYSICS Multiple Choice Which of the following is TRUE of a sound wave traveling in dry air at STP at a constant velocity:
+W) if frequency increases, wavelength increases
+X) if frequency increases, wavelength decreases
+Y) if frequency decreases, wavelength decreases
+Z) if frequency increases, wavelength stays the same
+ANSWER: X) IF FREQUENCY INCREASES, WAVELENGTH DECREASES
+TOSS-UP
+4) MATH Short Answer If the shortest leg of a 30-60-90 right triangle is 6 inches, what is the measure, in inches, of the other 2 sides?
+ANSWER: 12 AND 6&amp;radic;3
+BONUS
+4) MATH Short Answer Consider triangle ABC, where the measure of angle A = 20&amp;deg;, B = 117&amp;deg;, and C = 43&amp;deg;. Arrange the 3 sides in order of increasing length
+ANSWER: BC; AB; AC
+TOSS-UP
+5) EARTH SCIENCE Multiple Choice Ocean tides of diminished range are called:
+W) spring tides
+X) neap tides
+Y) diurnal tides
+Z) semi-diurnal tides
+ANSWER: X) NEAP TIDES
+BONUS
+5) EARTH SCIENCE Multiple Choice Which of the following was a time when glaciation was minimal on Earth:
+W) Cretaceous Period
+X) Quaternary Period
+Y) Holocene Epoch
+Z) Pleistocene Epoch
+ANSWER: W) CRETACEOUS PERIOD
+TOSS-UP
+6) GENERAL SCIENCE Short Answer 1 bar equals how many Pascals?
+ANSWER: 100,000 (ACCEPT: 1 × 10&lt;sup&gt;5&lt;/sup&gt; or 10&lt;sup&gt;5&lt;/sup&gt;)
+BONUS
+6) GENERAL SCIENCE Short Answer Meteorologists commonly use the hectopascal for air pressure. 1,000 hectopascals equals how many millibars?
+ANSWER: 1,000
+TOSS-UP
+7) ASTRONOMY Short Answer What planet of our solar system has the most nitrogen-rich atmosphere?
+ANSWER: EARTH
+BONUS
+7) ASTRONOMY Multiple Choice Most of the galaxies in the universe are classified as which of the following:
+W) spiral
+X) elliptical
+Y) irregular
+Z) dwarf
+ANSWER: Z) DWARF
+TOSS-UP
+8) BIOLOGY Short Answer What is the common name for the product of human lachrymal (read as: LACK-reh-mal) glands?
+ANSWER: TEARS
+BONUS
+8) BIOLOGY Short Answer Name all of the following 4 plants that have their seeds typically dispersed by wind: dandelion; milkweed; maize; lupine
+ANSWER: DANDELION; MILKWEED
+TOSS-UP
+9) CHEMISTRY Multiple Choice Which of the following is a weak electrolyte:
+W) ammonia
+X) dilute sulfuric acid
+Y) 1 molar sodium chloride
+Z) dilute perchloric acid
+ANSWER: W) AMMONIA
+BONUS
+9) CHEMISTRY Multiple Choice A molecular solid will most typically have which of the following melting points:
+W) very high
+X) high to very high
+Y) low
+Z) variable
+ANSWER: Y) LOW
+TOSS-UP
+10) PHYSICS Short Answer What particle of an atom is most directly responsible for the emission of light when an atom is excited by electromagnetic radiation?
+ANSWER: ELECTRON
+BONUS
+10) PHYSICS Short Answer What is the wavelength, in meters, of a wave moving at 500 meters per second if its frequency is 20 Hertz?
+ANSWER: 25
+TOSS-UP
+11) MATH Short Answer Simplify the following expression: x&lt;sup&gt;1/2&lt;/sup&gt; x&lt;sup&gt;2/5&lt;/sup&gt;
+ANSWER: x&lt;sup&gt;9/10&lt;/sup&gt;
+BONUS
+11) MATH Short Answer What is the slope of a line perpendicular to the line given by the graph of the equation, –5x = –6y + 4
+ANSWER: –6/5
+TOSS-UP
+12) EARTH SCIENCE Multiple Choice When rain freezes into pellets while falling to the ground during a winter storm, the most accurate forecast would have predicted:
+W) hail
+X) snow
+Y) freezing rain
+Z) sleet
+ANSWER: Z) SLEET
+BONUS
+12) EARTH SCIENCE Short Answer Identify each of the following 3 rocks, respectively, as igneous, metamorphic, or sedimentary: marble; pumice; conglomerate
+ANSWER: MARBLE = METAMORPHIC; PUMICE = IGNEOUS; CONGLOMERATE = SEDIMENTARY
+TOSS-UP
+13) GENERAL SCIENCE Multiple Choice Bioluminescence is a phenomenon most common in which of the following environments:
+W) marine
+X) fresh water
+Y) land
+Z) atmosphere
+ANSWER: W) MARINE
+BONUS
+13) GENERAL SCIENCE Multiple Choice Which of the following is a mixing incompatibility of common household products that can produce toxic products:
+W) vinegar and baking soda
+X) vinegar and bleach
+Y) vinegar and borax
+Z) castile soap and salt
+ANSWER: X) VINEGAR AND BLEACH
+TOSS-UP
+14) ASTRONOMY Multiple Choice Which of the following is the primary characteristic of the Jovian planets:
+W) high axial spin rates
+X) low mean density
+Y) retrograde orbits
+Z) prominent layer of liquid-metallic hydrogen
+ANSWER: X) LOW MEAN DENSITY
+BONUS
+14) ASTRONOMY Short Answer Which one of the Gas Giant planets emits the LEAST amount of energy?
+ANSWER: URANUS
+TOSS-UP
+15) BIOLOGY Multiple Choice Eggs exit a chicken’s body through what specific structure:
+W) rectal plexus
+X) cloaca (read as: KLO-aye-ka) Y) rostrum
+Z) spiculum
+ANSWER: X) CLOACA
+BONUS
+15) BIOLOGY Multiple Choice In which of the following areas of the human body is the zygomatic (read as: ZYE-go-MAT-ick) arch found:
+W) shoulder
+X) pelvis
+Y) head
+Z) knee
+ANSWER: Y) HEAD
+TOSS-UP
+16) CHEMISTRY Short Answer What is the bond order between the 2 carbon atoms in acetylene?
+ANSWER: 3
+BONUS
+16) CHEMISTRY Short Answer According to standard chemical nomenclature and indicating the proper charge, what is the formula for the sulfite ion?
+ANSWER: SO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;2–&lt;/sup&gt; (ACCEPT: SO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;–2&lt;/sup&gt;)
+TOSS-UP
+17) PHYSICS Short Answer How many neutrons does the most common isotope of hydrogen have?
+ANSWER: ZERO
+BONUS
+17) PHYSICS Short Answer How many neutrons and how many protons are present in a single oxygen-15 nucleus, respectively?
+ANSWER: NEUTRONS = 7; PROTONS = 8
+TOSS-UP
+18) MATH Multiple Choice Which of the following is NOT a Pythagorean triple:
+W) 15, 20, 25
+X) 10, 24, 26
+Y) 16, 24, 30
+Z) 33, 44, 55
+ANSWER: Y) 16, 24, 30
+BONUS
+18) MATH Short Answer Evaluate the following expression when a = 13 , b = 4, c = –1, and d=–5: 2[3a–(b+c)–4d]
+ANSWER: 36
+TOSS-UP
+19) EARTH SCIENCE Multiple Choice Cirrus clouds are typically found at elevations of:
+W) 20,000 feet and above
+X) 10,000 to 20,000 feet
+Y) 5,000 to 10,000 feet
+Z) 2,000 to 5,000 feet
+ANSWER: W) 20,000 FEET AND ABOVE
+BONUS
+19) EARTH SCIENCE Multiple Choice Andesitic magmas typically erupt above:
+W) hot spots
+X) divergent plate boundaries
+Y) subduction zones
+Z) fissure eruptions
+ANSWER: Y) SUBDUCTION ZONES
+TOSS-UP
+20) GENERAL SCIENCE Multiple Choice Which of the following is the main reason why Africanized honey bees are much more dangerous to humans and animals than European honey bees:
+W) they defend their nests more intensely
+X) their venom is 10-times more potent
+Y) they can sting multiple times
+Z) they are larger and carry more venom
+ANSWER: W) THEY DEFEND THEIR NESTS MORE INTENSELY
+BONUS
+20) GENERAL SCIENCE Short Answer In most cars, what acts as the circuit ground?
+ANSWER: THE BODY (ACCEPT: FRAME or CHASSIS)
+TOSS-UP
+21) ASTRONOMY Multiple Choice From mid-northern latitudes, during which of the following months would the constellation Orion be most prominent in the southern sky at about 10 PM:
+W) April
+X) July
+Y) August
+Z) December
+ANSWER: Z) DECEMBER
+BONUS
+21) ASTRONOMY Short Answer What is the most common term for the apparent dividing line between night and day on the Moon?
+ANSWER: TERMINATOR
+TOSS-UP
+22) BIOLOGY Multiple Choice From which of the following is the cell wall of plants mostly composed:
+W) protein
+X) lipid monolayer
+Y) lipid bilayer
+Z) polysaccharide
+ANSWER: Z) POLYSACCHARIDE
+BONUS
+22) BIOLOGY Short Answer What is the common biological name for the product of human sublingual glands?
+ANSWER: SALIVA
+TOSS-UP
+23) CHEMISTRY Multiple Choice Which of the following is the atomic sublevel with the next highest energy after the 4p sublevel:
+W) 4d
+X) 4f
+Y) 5s
+Z) 5p
+ANSWER: Y) 5s
+BONUS
+23) CHEMISTRY Short Answer Give the electronic configuration for sulfur, located in Period 3 and Group 16 of the Periodic Table:
+ANSWER: 1s&lt;sup&gt;2&lt;/sup&gt;2s&lt;sup&gt;2&lt;/sup&gt;2p&lt;sup&gt;s&lt;/sup&gt;63&lt;sup&gt;2&lt;/sup&gt;3p&lt;sup&gt;4&lt;/sup&gt; (ACCEPT: [Ne] 3s&lt;sup&gt;2&lt;/sup&gt;3p&lt;sup&gt;4&lt;/sup&gt;)
+TOSS-UP
+24) PHYSICS Short Answer Jan is riding her bike northward on Main Street at 20 kilometers per hour and applies her brakes. In what direction would a physicist MOST likely record her acceleration?
+ANSWER: SOUTH
+BONUS
+24) PHYSICS Short Answer If 200 coulombs pass through a wire in 0.5 seconds, what is the average current, in amps, passing through the wire?
+ANSWER: 400
+TOSS-UP
+25) BIOLOGY Short Answer What is the most common color for the calyx (read as: KAL-IX) of angiosperms?
+ANSWER: GREEN
+BONUS
+25) BIOLOGY Short Answer Name all of the following 4 diseases that are caused by viruses: measles; AIDS; tuberculosis; leprosy
+ANSWER: MEASLES; AIDS
